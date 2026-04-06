@@ -1,0 +1,1529 @@
+date_of_sale,address,county,eircode,price_eur,not_full_market_price,vat_exclusive,property_description,size_description,year,month
+01/08/2011,"152 Sandyford Road, Dundrum, Dublin 14",Dublin,,"€390,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+01/08/2011,"Apt 25 Booterstown Wood, Booterstown Avenue, Booterstown",Dublin,,"€300,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+02/08/2011,"12 Dalton Place, Dr Mannix Road, Galway",Galway,,"€377,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"13 Roselawn Glade, Castleknock, Dublin 15",Dublin,,"€275,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"130 An Lana, Cois na hAbhainn, Station Road  Moate",Westmeath,,"€102,500.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+02/08/2011,"16 Balfe Road, Walkinstown",Dublin,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"16 Ceoil Na Mara, Cliffoney",Sligo,,"€125,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+02/08/2011,"16 The Gallops, Kilbeggan",Westmeath,,"€100,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+02/08/2011,"193  Rochestown Avenue, Dun Laoghire",Dublin,,"€380,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"2 Derrinagree, Mallow",Cork,,"€41,690.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"2 Lismeen, Ballyjamesduff",Cavan,,"€200,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+02/08/2011,"22 Oaklands Manor, Carrick-on-Shannon",Leitrim,,"€70,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"23 Bridgemeadow, Milehouse Road, Enniscorthy",Wexford,,"€83,700.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+02/08/2011,"23 Millmount Grove, Dundrum, Dublin 14",Dublin,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"23 ROSEHILL, BLACKROCK",Dublin,,"€520,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"23 Shrewsbury Park, Ballsbridge",Dublin,,"€670,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"25 The Priory, NEwbidge",Kildare,,"€305,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"27 Priory Road, Harolds Cross",Dublin,,"€330,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"29 The Grange, Letterkenny",Donegal,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"30 The Meadows, Mogeely",Cork,,"€155,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"32 Seafield, Wicklow Town",Wicklow,,"€135,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"4 Lansdowne Terrace, Ennis Road",Limerick,,"€305,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"4 The Paddocks, Dunboyne",Meath,,"€405,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"43 Loughanure, Annagry",Donegal,,"€136,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"49 Hainault Road, Foxrock",Dublin,,"€755,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"5 The Square, Rathdowney",Laois,,"€30,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"5 The Willows, Latt, Cavan",Cavan,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"56 The Grove, Clonard, Wexford",Wexford,,"€95,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"7 LORD EDWARD STREET, MOUNTMELLICK",Laois,,"€56,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"7 Meadow  Vale, Smiths Road, Charleville",Cork,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"7 Templeroan Meadows, Knocklyon, Dublin 16",Dublin,,"€318,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"72  South Hill, Dartry, Dublin 6",Dublin,,"€705,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"8 Glencairn Place, The Gallops, Leopardstown",Dublin,,"€420,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"8 Mount Bellew Rise, Lucan",Dublin,,"€199,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"913 St. Patrick's Park, Celbridge, Co. Kildare",Kildare,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Apartment 14  Chapelgate, St. Alphonsus Road, Drumcondra",Dublin,,"€290,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Ballywillam, Kilcormac",Offaly,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Bishop Street, Tuam",Galway,,"€260,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Burgatia, Rosscarbery",Cork,,"€217,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Cullentra House, longwood",Meath,,"€350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Kantoher, Ballagh",Limerick,,"€65,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Kilbraney, Newbawn",Wexford,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Kilcommonbeg, Cahir",Tipperary,,"€87,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Maghery, Dungloe",Donegal,,"€65,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Main Street, Moate",Westmeath,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Rahara Village, Rahara",Roscommon,,"€88,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Roundill, Bandon",Cork,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"Rowls, Landford South, Meelin",Cork,,"€30,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+02/08/2011,"St Martha's, Cornagower East, Brittas Bay",Wicklow,,"€84,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"'Clara'  38 North Avenue, Mount Merrion",Dublin,,"€664,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"1 St Agnes Terrace, Crumlin",Dublin,,"€203,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"10 Friars Lough, Leighlinbridge",Carlow,,"€207,048.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+03/08/2011,"10 Laurence Brook, chapelizod",Dublin,,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"102 Cherrygarth, Rivervally, Swords",Dublin,,"€166,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"106 Feale Drive, Listowel",Kerry,,"€40,425.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"12 Sandyford Hall View, Sandyford, Co. Dublin",Dublin,,"€335,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"13 Oakrise, Clondalkin",Dublin,,"€155,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"16 DRUMNIGH WOOD, DRUMNIGH ROAD, PORTMARNOCK",Dublin,,"€1,000,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"166 Turvey Walk, Donabate, Co. Dublin",Dublin,,"€165,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+03/08/2011,"173 Palmerstown Woods, Clondalkin, Dublin 22",Dublin,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"18 Deepdales, Southern Cross Road, Bray",Wicklow,,"€350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"19 Templeview Walk, Clare Hall",Dublin,,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"2 Convent Close, Gorey",Wexford,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"2 Davitt Court, Gurteen",Sligo,,"€78,512.00",Yes,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+03/08/2011,"234 Balrothery Estate, Tallaght, Dublin 24",Dublin,,"€123,834.09",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"24 MYRTLE HOUSE, THE COAST, BALDOYLE",Dublin,,"€125,000.00",Yes,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+03/08/2011,"29 Taney Avenue, Goatstown",Dublin,,"€275,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"3  The Break  Aylesbridge, Ardamine, Gorey",Wexford,,"€160,352.42",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+03/08/2011,"3 Beech Lodge, Farmleigh Woods, Castleknock",Dublin,,"€290,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"3 Villa Park Road, Blackhorse Avenue, Navan Road",Dublin,,"€290,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"30 Spencer's Court, Enniscorthy",Wexford,,"€70,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"31 sullane weirs, macroom",Cork,,"€160,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+03/08/2011,"32  Summerhaven, Summerhill, Carrick-on-Shannon",Limerick,,"€66,872.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+03/08/2011,"32 Annaville Park, Dundrum",Dublin,,"€375,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"32 MYRTLE HOUSE, THE COAST, BALDOYLE",Dublin,,"€125,000.00",Yes,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+03/08/2011,"37 Heywood Close, Clonmel",Tipperary,,"€60,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"39 Rathmore Avenue, Stillorgan",Dublin,,"€320,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"39 Solomon's Court, Letterkenny, Co Donegal",Donegal,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"4 Finner Avenue, Bundoran, County Donegal",Donegal,,"€95,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"4 Orchard View, Delgany, County Wicklow",Wicklow,,"€340,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"40 Glenlucan, Killarney Road, Bray",Wicklow,,"€470,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"48 COLPE PARK, DEEPFORDE, DROGHEDA",Meath,,"€317,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"5 Castlemartin Park, Bettystown",Meath,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"5 Clogheen Strand, Clonakilty",Cork,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"56 Tory Top Road, Ballyphehane",Cork,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"7 Thornbury, Raheen, Limerick",Limerick,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"78 Clonliffe Avenue, Dublin 3",Dublin,,"€96,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"8 Seagrave Terrace, Meakstown, Dublin 11",Dublin,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"83 Norbury Woods Avenue, Arden Road, Tullamore",Offaly,,"€112,450.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+03/08/2011,"88 Shanliss Way, Santry",Dublin,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Apartment 19, Blacklion Manor, Greystones",Wicklow,,"€237,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Apt. 9, 86 Reuben St., Rialto",Dublin,,"€140,925.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+03/08/2011,"Bunnamayne, Bridgend",Donegal,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Carrignahillan, Kenmare",Kerry,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Castlecomfort House, Murroe, County Limerick",Limerick,,"€546,360.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Clonturk, Longford",Longford,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Coyne, Castletown Geoghegan",Westmeath,,"€48,190.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Cullenagh, Kylebrack, Loughrea",Galway,,"€44,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Emeniska, Modreeny, Cloughjordan",Tipperary,,"€400,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Gortgullane, Muckross, Killarney",Kerry,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"KILCREEN, RAMELTON",Donegal,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Kilmannon, Murrintown",Wexford,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Kilnaclasha, Skibbereen",Cork,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Lacken, Kilmihil",Clare,,"€91,774.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"LISNACUNNA, ENNISKEANE",Cork,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Main Street, Tulla",Clare,,"€75,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Number 2 Kilconor, Bishopstown Avenue, Model Farm Road",Cork,,"€375,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+03/08/2011,"Quay Road, Dungloe",Donegal,,"€172,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Tiveragh Beag, 3 Rathdown Court, Greystones",Wicklow,,"€320,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Toonsbridge, Macroom",Cork,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"TRIENERAGH, DUAGH, LISTOWEL",Kerry,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+03/08/2011,"Windsong, Derragh  Cullen, Mallow",Cork,,"€48,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"10 Janemount Court, Corbally, Limerick",Limerick,,"€95,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"103 stannaway road, Kimmage",Dublin,,"€185,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"13 Turnstone, Thornwood, Booterstown",Dublin,,"€190,000.00",No,No,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+04/08/2011,"14 Gortamullen Holiday Cottages, Sneem Road, Kenmare",Kerry,,"€127,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"14 Oriel Cove, Clogherhead",Louth,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"16 Gracefield Road, Artane",Dublin,,"€223,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"17 Cruise Park Avenue, Tyrellstown, Dublin 15",Dublin,,"€189,408.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+04/08/2011,"19 Loughmore Square, Killeen Castle, Dunsany",Meath,,"€350,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+04/08/2011,"2 Cherryfield, Ashleigh Wood, Monaleen",Limerick,,"€340,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"2 Glenageary Hall, Glenageary",Dublin,,"€610,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"22 The Park, Dunboyne Castle, Dunboyne",Meath,,"€166,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"3 LIFFEY VALLEY WALK, LIFFAEY VALLEY PARK, LUCAN",Dublin,,"€161,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"35 Boroimhe Aspen, Swords",Dublin,,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"4 Hawthorn Lodge, Castleside Drive, Rathfarnham Castle",Dublin,,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"4 The Fairgreen, Thomastown",Kilkenny,,"€131,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"43  Landsdowne Court, Old Youghal Road",Cork,,"€46,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"47 Oak Rise, Clondalkin",Dublin,,"€168,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"49 Monread Gardens, Naas",Kildare,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"5 Springlawn Drive, Blanchardstown, Dublin 15",Dublin,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"5 Sycamore Lawn, Castleknock, Dublin 15",Dublin,,"€237,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"544 Riverforest, Leixlip",Kildare,,"€202,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"6 Ard na Mara, Blackrock, Dundalk",Louth,,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"6 spire view, riverston abbey, navan road",Dublin,,"€296,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"62 CASTLEKNOCK WAY, CASTLEKNOCK",Dublin,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"66 SHANTALLA ROAD, GALWAY",Galway,,"€236,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"7  ST BRIDGETS PLACE LOWER, PROSPECT HILL, GALWAY",Galway,,"€142,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"76 PARK LANE, GRANGE RATH, DROGHEDA",Meath,,"€222,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"82 Drominbeg, Rhebogue, Limerick",Limerick,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"82 Eagle Valley, Enniskerry",Wicklow,,"€765,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"86 Ballygowran View, Celbridge",Kildare,,"€330,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"9 Rampart View, Bailieboro Road, Virginia",Cavan,,"€140,969.16",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+04/08/2011,"97  Clonliffe Avenue, Dublin",Dublin,,"€96,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Ahabeg, Lixnaw",Kerry,,"€181,300.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Apartment No. 6 Castle Park Court, 57 Castlepark Road, Dalkey",Dublin,,"€259,911.89",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+04/08/2011,"Apt 19 Mellor Court, 19-23 Liffey Street Lower, Duboin 1",Dublin,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Apt 5, The Pidgeon House, The Gasworks",Dublin,,"€317,180.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+04/08/2011,"Balllymacamore, Croom",Limerick,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Ballynahallisk, Rockmills, Kildorrery",Cork,,"€45,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Ballynasrah, Lusmagh, Banagher",Offaly,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Cloghaneanode, Castlegergory",Kerry,,"€225,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Clonmantagh, Barna, Freshford",Kilkenny,,"€173,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Clounlaheen Middle, Mullagh",Clare,,"€94,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Cottage at Doovin, Ross",Mayo,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Dun Mhuire, Bonavalley, Athlone",Westmeath,,"€293,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Farranwilliam, Ardfert",Kerry,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Friarsground, Abbey Street, Ballyhaunis",Mayo,,"€40,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Gainstown, Navan",Meath,,"€440,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Girley, Fordstown",Meath,,"€287,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Killaugh, South Douglas Road, Cork",Cork,,"€199,250.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Moneymore East, Oranmore",Galway,,"€317,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Mullens Shop, Cogan Street, Oldcastle",Meath,,"€115,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"no. 32 Gort Leamhan, Roslevin  Tulla Road, Ennis",Clare,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"No. 34 Ashgrove, Ballinagh",Cavan,,"€120,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+04/08/2011,"No.2 Ard Carraig, Durrus, Bantry",Cork,,"€229,075.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+04/08/2011,"Pollakeel, Carrickaboy",Cavan,,"€18,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Rock Road, Lydican, Claregalway",Galway,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+04/08/2011,"Tuskar House, St. John's Gate Street, John's Gate",Wexford,,"€302,400.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+04/08/2011,"Woodfield, Shanakiel, Sundays Well",Cork,,"€670,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"1 Convent Close, \gorey",Wexford,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"1 Rockchapel Mews, Lott Lane, Kilcoole",Wicklow,,"€330,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+05/08/2011,"1 Trident Homes, Castle Street, Liscannor",Clare,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"10 New Cork Road, Midleton",Cork,,"€46,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"10 shelbourne park, ennis road, limerick",Limerick,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"10 St. James Court, Ennis Road, Limerick",Limerick,,"€385,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"102 Sandyford Downs, Sandyford",Dublin,,"€422,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"108 Assumption Place, Kilkenny",Kilkenny,,"€70,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"11  Ard Ailinn, Ballybane, Galway",Galway,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"11 Monastery View, Sandyhill, Westport",Mayo,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"11 New Wapping Street, Dublin 1",Dublin,,"€210,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"11a Kincora Court, Clontarf, Dublin 3",Dublin,,"€449,250.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"12 Dalkey Park, Dalkey, Co. Dublin",Dublin,,"€509,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"12 The Links, Holiday Village, Lahinch",Clare,,"€147,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"122B Ballyshannon Road, Coolock",Dublin,,"€177,973.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+05/08/2011,"124 Lower Kilmacud Road, Stillorgan",Dublin,,"€300,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"126 Morehampton Road, Donnybrook",Dublin,,"€581,126.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"13 A, Kenilworth Lane, Rathmines",Dublin,,"€240,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"130 Sycamore Avenue, Rathbane, Limerick",Limerick,,"€86,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"132 Rose Hill, Wicklow",Wicklow,,"€145,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"14 Croydon Terrace, Marino",Dublin,,"€270,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"142 The Grange, Raheen",Limerick,,"€253,250.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"15 Quarry View, Ballybride, Roscommon",Roscommon,,"€245,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"15 Walnut Drive, Caherdavin, Limerick",Limerick,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"16 Curragh Birin, Castletroy",Limerick,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"177 Blackditch Road, Ballyfermot, Dublin 10",Dublin,,"€118,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"2 Casements Avenue, Tralee",Kerry,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"20 CUIRT AISLING, BALLYBOFEY",Donegal,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"21 Barton Drive, Grange Road, Rathfarnham",Dublin,,"€335,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"21 Dunsoghly Drive, Ratoath Road, Finglas",Dublin,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"22 Larkhill Road, Whitehall, Dublin 9",Dublin,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"24 Brooklands, Nutley Lane",Dublin,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"25 Woodstown Park, Knocklyon",Dublin,,"€555,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"27 Calderwood Ave, Drumcondra",Dublin,,"€380,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"27 Westcourt, Derogheda",Louth,,"€167,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"29 Rivercourt, Rathmullen Road, Drogheda",Louth,,"€65,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"3 Domville Drive, Templeogue, Dublin 6W",Dublin,,"€285,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"3 Park Lane, Grange Rath, Drogheda",Meath,,"€262,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"30 Palmers Crescent, Palmerstown Manor, Palmerstown",Dublin,,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"31 The Fairways, Woodbrook Glen, Bray  County Wiclow",Wicklow,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"313 Castlecurragh Heath, Mullhuddart",Dublin,,"€114,950.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"33  Kelly's Bay Pier, Kelly's Bay, Skerries",Dublin,,"€207,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"359 Howth Road, Raheny",Dublin,,"€400,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"36  Geraldine Place, Cork",Cork,,"€126,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"36 Meadow Park, Dublin Road",Cavan,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"39 Barton Drive, Rathfarnham",Dublin,,"€615,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"4 Ballyellery Cottages, Liscannor",Clare,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"4 Chestnut grove, Bay Estate, Dundalk",Louth,,"€135,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"40 Marguerite Road, Glasnevin, Dublin 9",Dublin,,"€20,632.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"43 Ardkill Place, Ballinagh, County Cavan",Cavan,,"€88,105.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+05/08/2011,"44 Park Drive, Ranelagh, Dublin 6",Dublin,,"€999,990.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"45 Victoria Place, Castlebar, Co. Mayo",Mayo,,"€90,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+05/08/2011,"46 Broughton Street, Dundalk",Louth,,"€132,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"47 Stepaside Park, Enniskerry Road, Stepaside",Dublin,,"€560,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"4A, Rockypool Villas, Blessington",Wicklow,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"5 Tivoli Road, Dun Laoghaire",Dublin,,"€436,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"50 Castlegate Grove, Adamstown Castle, Adadmstown",Dublin,,"€245,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+05/08/2011,"57 Newtown Park, Annacotty, Limerick",Limerick,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"57 The Paddocks View, Lucan",Dublin,,"€189,427.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"57 The Paddocks View, Lucan",Dublin,,"€189,427.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+05/08/2011,"57 The Rise, Boden Park, Rathfarnham",Dublin,,"€330,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"6 Beech Court, Killiney, County Dublin",Dublin,,"€545,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"6 THE FECHINS, BEAULIEU, TERMONFECKIN",Louth,,"€350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"61 Millbrook, Milltown",Galway,,"€130,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+05/08/2011,"7 Ashwood Walk, Summerhill Lane, Portlaoise",Laois,,"€158,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+05/08/2011,"7 Glen Easton Manor, Leixlip, Co Kildare",Kildare,,"€310,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"70 Derry Drive, Crumlin",Dublin,,"€104,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"72 Thorndale, Letterkenny",Dublin,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"73 Slievenamon Road, Driminagh",Dublin,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"77 Harmonstown Road, Artane",Dublin,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"79 Grange Abbey Grove, Donaghmede",Dublin,,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"8 St Catherines Park, Glenageary",Dublin,,"€629,200.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"87 Lakelands Close, Stillorgan",Dublin,,"€200,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"87 Pearse Road, Graiguecullen",Carlow,,"€126,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"87 Sunday's Well Road, Cork",Cork,,"€31,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"9 Richmond Park, Monkstown",Dublin,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"91A Belmont Park, Raheny",Dublin,,"€270,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"94 Kincora Grove, Clontarf, Dublin 3",Dublin,,"€515,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"apartment 2, loreto hall, cavan",Cavan,,"€82,864.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+05/08/2011,"Atlantic View, Ballycahane, Cork",Cork,,"€315,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Boyle Road, Gurteen",Sligo,,"€182,379.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+05/08/2011,"Bramblestown, Gowran",Kilkenny,,"€300,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Brennan, Stradbally",Waterford,,"€350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Cloonglassney, Strokestown",Roscommon,,"€10,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Cloonslanor, Strokestown",Roscommon,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Cottage @ Slate Row, Hacketsown",Carlow,,"€71,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Dwellinghouse at, Dublin Road, Dundalk",Louth,,"€118,811.88",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Egool, Kilmovee, Ballaghadereen",Mayo,,"€29,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Grianan, Millers Lane, Skerries",Dublin,,"€185,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Killerisk Road, Tralee",Kerry,,"€169,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Killinlea Upper, Abbeyfeale",Limerick,,"€77,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"KNOCKTOPHER HALL, Knocktopher",Kilkenny,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"LASSABOY, CASTLEMAINE",Kerry,,"€37,150.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Lisgarve, Elphin",Roscommon,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Moor, Kylebrack, Loughrea",Galway,,"€65,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"new line, charleville",Cork,,"€9,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"No 3 Laural Hill, Castlepark, Mallow",Cork,,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Polerone, Mooncoin",Kilkenny,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"PORTRUSHEN, CARLOW",Carlow,,"€195,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"SHALLON, JULIANSTOWN",Meath,,"€60,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"The Wood, Ballyedmonduff, Sandyford",Dublin,,"€310,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Thomastown, Kilkerley, Dundalk",Louth,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+05/08/2011,"Tristernagh, Balrothery Hill, Balrothery",Dublin,,"€270,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+06/08/2011,"5 The Promenade, Rathealy Road, Fermoy",Cork,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+07/08/2011,"Myrtle Cottage, Rockmount, Drimoleague",Cork,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"10 Ringcurran Grove, Ardbrack, Kinsale",Cork,,"€395,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"101 Lios an Uisce, Murrough, Galway",Galway,,"€122,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"109  Lioscian, Swords",Dublin,,"€245,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"109 chalfont Avenue, Malahide",Dublin,,"€570,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"11 Castleview Drive, Castleisland",Kerry,,"€144,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"11a Mayfiled Terrace, Ballinteer, Dublin 16",Dublin,,"€315,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"13 Wendy Walsh Close, Lusk",Dublin,,"€211,453.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"14  Glenalua Road, Killiney, Co Dublin",Dublin,,"€255,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"14 Priory Grove, Stillorgan",Dublin,,"€440,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"2 Beechmount Court, Green Road, Newbridge",Kildare,,"€240,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"2 Hillcrest, Watergrasshill, Cork",Cork,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"27 Riverwood Heath, Castleknock",Dublin,,"€280,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"33 Grangefield, Marley Park, Rathfarnham",Dublin,,"€395,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"34  Block 1, Castlemartin Close, Bettystown",Meath,,"€140,969.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+08/08/2011,"35 CLOUGHCARRIGEEN, KILSHEELAN, CLONMEL",Tipperary,,"€42,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"360 Castleforbes Square, Upper Mayor Street, Dublin 1",Dublin,,"€118,062.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+08/08/2011,"37 The Paddocks Grove, Adamstown, Co. Dublin",Dublin,,"€250,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+08/08/2011,"396 Castleforbes Square, Upper Mayor Street, Dublin 1",Dublin,,"€127,754.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+08/08/2011,"4 Newtown Heights, Knockbridge, Dundalk",Louth,,"€127,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"42 Bourlum Wood, Green Road, Carlow",Carlow,,"€310,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"434 Castleforbes Square, Upper Mayor Street, Dublin 1",Dublin,,"€116,300.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+08/08/2011,"44 Hermitage, Ennis",Clare,,"€73,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"455 Castleforbes Square, Upper mayor Street, Dublin 1",Dublin,,"€170,000.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+08/08/2011,"54 Cherrywood Villas, Clondalkin, dublin 22",Dublin,,"€131,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"56 Abbeyview, Abbeylands, Kinsale",Cork,,"€178,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"58 Christchurch View, Christchurch",Dublin,,"€176,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"6 Kingston Drive, Ballinteer, Dublin",Dublin,,"€307,250.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"7 Haven Court, Ballyragget",Kilkenny,,"€160,023.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+08/08/2011,"7 New Cabra, Road, Dublin 7",Dublin,,"€450,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"72 St. Brendans Park, Tralee",Kerry,,"€55,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"74 Mount Prospect Lawns, Mount Prospect Avenue, Clontarf",Dublin,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"8 Ashfield East, New Orchard Road",Kilkenny,,"€145,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"8 Rostrevor Park, Caherdavin",Limerick,,"€103,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"81 CulCrannagh, Dooradoyle, Limerick",Limerick,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"9 Dun na Riogh Rise, Naas",Kildare,,"€260,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"9 Oak Drive, Swinford",Mayo,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"95 Delcassian Downs, Harts Corner, Glasnevin",Dublin,,"€303,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"Apartment 470, Castleforbes Square, Upper Mayor Street",Dublin,,"€231,277.53",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+08/08/2011,"Attirory, Carrick.on.Shannon",Leitrim,,"€55,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"Bargy Commons, Murrintown",Wexford,,"€252,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+08/08/2011,"Bishopscourt South, Ballyduff, Tralee",Kerry,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"Firtree Cottage, Crossbeg, Ballyhaunis",Mayo,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"GORT ROAD, LOUGHREA",Galway,,"€285,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"Greenhills, Spiddal",Galway,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"Lisroe, Kilcummin, Killarney",Kerry,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"Liss, Tullaroan, County Kilkenny",Kilkenny,,"€48,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"No.  Gort na Halla, Woodlawn Cross, Killarney",Kerry,,"€191,189.43",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+08/08/2011,"No. 1 The Sluggary, Dooradoyle",Limerick,,"€125,000.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+08/08/2011,"Portruan, Belturbet",Cavan,,"€70,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"Shanliss, Ardee",Louth,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"Site No 4 The Laurels, Avourwen Meadows, Duleek Road",Meath,,"€199,121.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+08/08/2011,"St. Mary's Villas, Glendale  Mayfield, Claremorris",Mayo,,"€153,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"THE GRANGE, KILCOCK",Kildare,,"€240,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+08/08/2011,"Wingfield Cottage, Kilcroney Lane, Enniskerry",Wicklow,,"€515,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"'Betula Grove', Coorydarrigan, Schull",Cork,,"€300,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"1 Fortrose Park, Templeogue",Dublin,,"€530,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"1 Grangebrook Avenue, Rathfarnham, Dublin 16",Dublin,,"€265,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"12 Hayworth Mews, Ongar Park, Ongar",Dublin,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"127 Clonminch Woods, Clonminch Road, Tullamore",Offaly,,"€72,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"128 Shanliss Avenue, Santry",Dublin,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"14 Reston Close, Westbury, Corbally",Clare,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"15 Luttrellstown Place, Castleknock, Dublin 3",Dublin,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"15 Woodgrove Road, Carrigaline, Cork",Cork,,"€400,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"16 Highfield Lawns, Swords",Dublin,,"€450,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"17 Slademore Close, Ard na Greine",Dublin,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"18 Pebble Walk, Pebble Beach, Tramore",Waterford,,"€50,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"22 Gardenrath Close, Kells",Meath,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"25 Sunnyhill, Castlemartin Lodge, Kilcullen",Kildare,,"€195,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"3 Ashgrove, Fortunestown, Tallaght",Dublin,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"3 Bushfield Place, Donnybrook",Dublin,,"€510,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"3 Millfield The Links, Station Road, Portmarnock",Dublin,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"3 Park Avenue, Adare, Limerick",Limerick,,"€157,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"30 Morehampton Road, Donnybrook",Dublin,,"€680,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"30 Woodbine Drive, Raheny, Dublin 5",Dublin,,"€235,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"322 Mourne Road, Drimnagh",Dublin,,"€135,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"33 St Patricks Square, Laytown",Meath,,"€315,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"35  Boroimhe Birches, Swords",Dublin,,"€50,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"36 Bothar Clochan Theas, Garryowen, Limerick",Limerick,,"€64,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"4 Grange Avenue, Stamullen Road, Gormanstown",Meath,,"€106,885.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"465, castleforbes square, dublin",Dublin,,"€148,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+09/08/2011,"6 The View, Robswall, Malahide",Dublin,,"€525,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+09/08/2011,"7 Cedar Court, Ashleigh Downs, Tralee",Kerry,,"€139,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"7 Mayfield Road, South Circular Road",Dublin,,"€457,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"72 St. Patricks Crescent, Monkstown Farm, Monkstown",Dublin,,"€135,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"8 Lough Gate, Portarlington",Laois,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"9 Coachman Apartments, 40 Dominick Street, Galway",Galway,,"€60,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"9 VIKING WHARF, WORLDS END, KINSALE",Cork,,"€400,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"APARTMENT 35  BLOCK C, PARKSIDE, PORTLAOISE",Laois,,"€80,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+09/08/2011,"Apartment 7, 6 Reuben Plaza, Rialto",Dublin,,"€157,950.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+09/08/2011,"Apartment No.2, Clarence Gate, Kilkenny Road",Carlow,,"€69,500.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+09/08/2011,"Ballyready, Barrymore, Co Cork",Cork,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"Clonshire, Adare",Limerick,,"€285,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+09/08/2011,"Drumcrow, Cloverhill",Cavan,,"€114,537.44",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+09/08/2011,"Kilcarroon, Clogheen",Tipperary,,"€30,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"Killeaney, Inishmore, Aran Islands",Galway,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"Kiltoghert, Carrick on shannon",Leitrim,,"€15,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"Kiltorcan, Ballyhale, Co. Kilkenny",Kilkenny,,"€195,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"Kinneagh, Curragh",Kildare,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"Litleton, The Pigeons, Athlone",Westmeath,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"Marshalstown, Mitchelstown",Cork,,"€142,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"Old Road, Ballymacarry, Buncrana",Donegal,,"€50,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"Rath Lower  Tang, Glasson, Athlone",Westmeath,,"€25,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"RUSHEEN, BALLYLONGFORD",Kerry,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"Station Road, Ballisodare",Sligo,,"€45,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"TULLINACURRA, SWINFORD",Mayo,,"€30,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+09/08/2011,"TUSKAR LODGE, KILEEN, OLDTOWN",Dublin,,"€380,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"1 Merrion Village, Merrion Road",Dublin,,"€330,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"11 Sandyford Hall, Sandyford",Dublin,,"€299,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"16 Castle Park, Fethard On Sea, New Ross",Wexford,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"161 Wainsfort Road, Terenure, Dublin 6 W",Dublin,,"€325,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"19 Bramble rise, killynebber, cavan",Cavan,,"€110,132.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+10/08/2011,"191 Brightwater, Crosshaven, Cork",Cork,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"22 Quay Village, The Quay, Westport",Mayo,,"€122,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"23 CROI NA MBAILE, KILMIHIL",Clare,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"23 Shanganagh Grove, Shankill",Dublin,,"€320,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"28 Iona Avenue, Thurles",Tipperary,,"€105,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"3  Glencastle, Glenbeigh, Killorglin",Kerry,,"€140,969.16",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+10/08/2011,"3 Pembroke Place, Pembroke Street",Dublin,,"€400,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"31 Spencer Court, Enniscorthy",Wexford,,"€62,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"360 Kildare Road, Crumlin, Dublin 12",Dublin,,"€85,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"39 Tuscany Park, Baldoyle, Dublin 13",Dublin,,"€252,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"4  Church Terrace, Dunlavin",Wicklow,,"€92,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"40 Atlantic View, Kilkee",Clare,,"€105,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"43 The Paddocks, Newcastlewest",Limerick,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"45A  Coolatree Road, Beaumont",Dublin,,"€410,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"47 Shrewsbury, Shrewsbury Park, Ballsbridge",Dublin,,"€475,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"48 PENROSE STREET, RINGSEND, DUBLIN 4",Dublin,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"51 Galtymore Close, Drimnagh",Dublin,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"52 Castle Gardens, St. Helens, Kilrane",Wexford,,"€137,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"54 Old Avenue, Glanmire",Cork,,"€228,700.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"55 The Sweepstakes, Ballsbridge",Dublin,,"€330,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"59 Iona Villas, Glasnevin",Dublin,,"€408,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"6  Lakelands Crescent, Mahon",Cork,,"€173,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"6 Oaklands, Salthill, Galway",Galway,,"€315,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"63 Shrewsbury, Shrewsbury Park, Ballsbridge",Dublin,,"€650,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"8 Aughavanagh Road, Crumlin, Dublin 12",Dublin,,"€145,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"9 Wexford Street, Gorey",Wexford,,"€65,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"97 The Pines, Castleknock, Dublin 15",Dublin,,"€520,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"ANIVORE, DOWNINGS",Donegal,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Apartment 35, The Sweepstakes, Ballsbridge",Dublin,,"€310,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Apartment 54, The Anchorage, Dun Laoghaire",Dublin,,"€335,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Apartment 70, The Sweepstakes, Ballsbridge",Dublin,,"€240,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Apartment 83, The Sweepstakes, Ballsbridge",Dublin,,"€280,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Ballymacelligott, Tralee",Kerry,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Broomfield, 15 Kenilworth Lane, Rathgar",Dublin,,"€276,250.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Cappard Demense, Peterswell",Galway,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Cloonbrusk, Dunmore",Galway,,"€21,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Cloughultagh, Taghmon",Wexford,,"€50,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"COOLEGRAINE, DOWRA",Leitrim,,"€26,400.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Cregg, Glandore",Cork,,"€350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Flat No. 3  Block 1  The Elms, Mount Merrion Avenue, Blackrock",Dublin,,"€155,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Kileen, Mulaharlin Road, Dundalk",Mayo,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Knockacree, Castledermot",Kildare,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Myosotis, Boley, Camolin",Wexford,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Newcastle Lodgw, Newcastle",Dublin,,"€445,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"No. 4 The Grove, Monageer, Enniscorthy",Wexford,,"€86,343.61",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+10/08/2011,"No. 9 Stonewell, Brigown, Mitchelstown",Cork,,"€170,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+10/08/2011,"Pine Lodge, Forestry Road, Forth Mountain",Wexford,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"seskin, bantry",Cork,,"€245,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"St. Flannan Street, Nenagh",Tipperary,,"€75,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+10/08/2011,"Weirview, Thomastown, Co. Kilkenny",Kilkenny,,"€253,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"'GREENWOODS', SLADE VALLEY, BRITTAS",Dublin,,"€282,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"10 Frairs Street, Cork",Cork,,"€147,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"10 Ocean Towers, Blackrock, Salthill",Galway,,"€240,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"11 Murphys Terrace, Ballymullen, Tralee",Kerry,,"€58,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"11 The Pavillion, Marine Road, Dun Laoghaire",Dublin,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"128 Whitehall Road West, Perrystown",Dublin,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"13 Atlantean Cottages, Kilkee",Clare,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"14 griffith avenue, Kiltealy",Wexford,,"€75,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"15 Nugent Road, Churchtown, Dublin 14",Dublin,,"€369,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"15 Oakfield Green, Glanmire",Cork,,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"15 Summerhaven, Summerhill, Carrick-on-Shannon",Leitrim,,"€76,651.98",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+11/08/2011,"177 Glen Dara, Bishop O'Donnell Road, Galway",Galway,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"2 Ferryview Cottages, World's End, Kinsale",Cork,,"€280,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"2 Lowpark Court, Lowpark, Charlestown",Mayo,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"22 Congress Gardens, Glasthule",Dublin,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"226A Howth Road, Clontarf",Dublin,,"€482,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"23, Sandyford Hall View, Sandyford",Dublin,,"€310,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"27 GALLWEYS HILL, CHURCH ROAD, TRAMORE",Waterford,,"€112,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"28 Rahylin Glebe, Ballybane, Galway",Galway,,"€105,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"3 ST. JOSEPH'S STREET, NORTH CIRCULAR ROAD, DUBLIN",Dublin,,"€347,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"30 Ard Abhainn, Ballyhooly",Cork,,"€185,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"33 TURVEY WOODS, DONABATE",Dublin,,"€121,500.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"37  Hollybank Road, Drumcondra, Dublin 9",Dublin,,"€390,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"38 Dollymount Avenue, Clontarf, Dublin 3",Dublin,,"€483,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"4 Cedar Downes, Dooradoyle Road",Limerick,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"4 Glen Easton Crescent, Leixlip",Kildare,,"€341,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"42 Dufferin Avenue, South Circular Road",Dublin,,"€260,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"43 Mill Meadows, Arklow",Wicklow,,"€135,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"43 The Green, Moyglare Hall, Maynooth",Kildare,,"€243,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"44 Terenure Road North, Terenure",Dublin,,"€317,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"46 Waterside Drive, Malahide, County Dublin",Dublin,,"€145,682.81",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+11/08/2011,"5  Charleville Close, Rathmines",Dublin,,"€405,286.34",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+11/08/2011,"5 Newpark Court, Kinnegad",Westmeath,,"€49,500.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"54 The Thatch Road, Whitehall",Dublin,,"€168,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"6 Aisling House, Whitestrand Road, Salthill",Galway,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"6 HAZELWOOD, LOUGHREA",Galway,,"€119,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"6 Walkinstown Crescent, Walkinstown",Dublin,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"7 Blackberry Glade, Arklow",Wicklow,,"€149,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"70 Windfield Gardens, Clybaun Rd",Galway,,"€245,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"72 Boot Road, Clondalkin",Dublin,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"8 The Field, Barndarrig, Redcross",Wicklow,,"€200,000.00",No,No,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+11/08/2011,"Apartment 21  Arranmore, 13/17 Pembroke Road, Dublin 4",Dublin,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Apartment No 20 Summerhaven, Carrick on Shannon",Leitrim,,"€76,651.98",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+11/08/2011,"Apt. 10 Townville, St. Mary's Road, Arklow",Wicklow,,"€71,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Atlanta, 37 Coliemore Road, Dalkey",Dublin,,"€2,600,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Ballymartin, Kilmaine",Mayo,,"€50,940.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Ballynoe, Cóbh.",Cork,,"€437,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Cahercrin, Athenry, Co. Galway",Galway,,"€265,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Creggaree, Cong",Galway,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Glospatrick, Murrisk, Westport",Mayo,,"€432,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Moyne, Enniscorthy, Co Wexford",Wexford,,"€21,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Newtown, Duleek",Meath,,"€320,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"No. 1 Lismeen, Ballyjamesduff",Cavan,,"€155,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+11/08/2011,"Park, Ballyellis, Gorey",Wexford,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Rearoe, Clogheen",Tipperary,,"€30,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"ROSE COTTAGE, HETTYFIELD, DOUGLAS",Cork,,"€325,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"rus-in-urbe, lower glenageary road, dun laoghaire",Dublin,,"€1,181,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Rustic, Coolroe, The Rock Arklow",Wicklow,,"€137,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Seaview Lodge, Off Stiles Road, Clontarf",Dublin,,"€875,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Templepeter, Rathoe, County Carlow",Carlow,,"€56,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"The Log, 42 Sorrento Road, Dalkey",Dublin,,"€620,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+11/08/2011,"Tobar, Rhebogue, Limerick",Limerick,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"1 Deerpark, Clonminch, Tullamore",Offaly,,"€287,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"1 The Willows, Allenwood, Naas",Kildare,,"€214,096.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+12/08/2011,"10 Ballinclea Wood, Killiney",Dublin,,"€425,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"10 Brawney Drive, Athlone",Westmeath,,"€53,333.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"10 Laghtagoona, Corofin",Clare,,"€195,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"10 Pembroke Cottages, Booterstown, County Dublin",Dublin,,"€370,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"10 Waterside, Castleheights, Kilmoney Road  Carrigaline",Cork,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"105 Broadford Crescent, Ballinteer",Dublin,,"€280,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"10B Rainsford Avenue, Christchurch",Dublin,,"€116,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"117 Upper Kilmacud Road, Stillorgan",Dublin,,"€410,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"118 Oliver Plunkett Road, Dun Laoghaire",Dublin,,"€198,950.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"12 CLONMETHAN GREEN, OLDTOWN",Dublin,,"€123,350.00",Yes,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+12/08/2011,"12 Hollyville, Grange, Douglas",Cork,,"€105,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"13 Simmons Court, Ballsbridge",Dublin,,"€611,027.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"14 THORNLEIGH ROAD, APPLEWOOD VILLAGE, SWORDS",Dublin,,"€198,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"16 The Green, Moyglare Hall, Maynooth",Kildare,,"€286,345.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+12/08/2011,"16 The Laurels, Quayside, Balbriggan",Dublin,,"€105,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"17 Aspen Avenue, Clonsilla, Dublin 15",Dublin,,"€240,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"17 Cois Abhainn, Leitrim Village",Leitrim,,"€115,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+12/08/2011,"19A Silverwood, Finnstown Abbey, Lucan",Dublin,,"€271,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"1B & 1C Avoca Place, Blackrock",Dublin,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"2 Newtownpark Avenue, Blackrock",Dublin,,"€690,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"2 Rowanslaw, Knockmore, Ballina",Mayo,,"€214,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"20 Fox Park, Finnstown Abbey, Lucan",Dublin,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"21 Carysfort Woods, Blackrock, Co. Dublin",Dublin,,"€437,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"22 Larkfield Avenue, Harold's Cross",Dublin,,"€260,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"24 Fountain Hill, Mell, Drogheda",Louth,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"25 Ashgrove, Tullow Road, Carlow",Carlow,,"€30,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"26 Whitethorn Road, Clonskeagh, Dublin 14",Dublin,,"€510,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"27 Westpark, Tallaght",Dublin,,"€204,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"29 Richmond, Newtownpark Avenue, Blackrock",Dublin,,"€500,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"3 Cahercallabeg, Ballybeg, Ennis",Clare,,"€292,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"30 The Alders, Avourvwen Village, Drogheda",Meath,,"€95,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"33 Brega, Hamlet Lane, Balbriggan",Dublin,,"€134,950.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"33 Laverna Dale, Castlenock",Dublin,,"€396,474.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+12/08/2011,"37 Elton Court, Leixlip",Kildare,,"€99,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"37 Rockfield Green, Maynooth",Kildare,,"€305,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"38 Edenvale Road, Ranelagh",Dublin,,"€880,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"38 The Richmond, North Brunswick Street",Dublin,,"€95,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"4 FOXFIELD, CASTLEBAR",Mayo,,"€92,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"404 Longboat Quay, Hannover Quay",Dublin,,"€125,000.00",Yes,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+12/08/2011,"41  Kennedy Park, Wexford",Wexford,,"€107,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"41 GLENAGEARY WOODS, GLENAGEARY",Dublin,,"€480,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"42 Wainsfort, Rochestown Road, Rochestown",Cork,,"€252,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"43 Griffeen, Glen Drive, Lucan",Dublin,,"€202,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"45 Treesdale, Stillorgan Road, Co. Dublin",Dublin,,"€370,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"5 Beachside Walk, Riverchapel",Wexford,,"€94,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"5 Clarence Gate, Kilkenny Road",Carlow,,"€69,500.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+12/08/2011,"5 RATHBEG, BANDON ROAD, KINSALE",Cork,,"€750,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"5 Summercove, Lahinch",Clare,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"52 forest dale, river valley, swords",Dublin,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"55 GARDINERS HILL, CORK",Cork,,"€75,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"56 Hansfield, Clonee",Dublin,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"57 Park Gate, Shillelagh Road, Tullow",Carlow,,"€117,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"6 Grangemore Park, Donaghmede, Dublin 13",Dublin,,"€227,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"62 Carne Hill, Navan",Meath,,"€228,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"63 Rochdale, Honey Park, Dun Laoghaire",Dublin,,"€196,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"63 Whitecastle Lawn, Athy",Kildare,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"64  THE GROVE, KINGSWOOD, TALLAGHT DUBLIN 24",Dublin,,"€220,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"66 Beechwood Park, Pollerton, Carlow",Carlow,,"€115,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"7 Cunningham Drive, Dalkey",Dublin,,"€565,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"7 Laburnum Lawn, Model Farm Road",Cork,,"€221,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"72  Ros Caoin, Roscam, Galway",Galway,,"€199,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"8 ATLANTIC VIEW, BELMULLET",Mayo,,"€64,440.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"813, Woodlands East, Castlerdermot",Kildare,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"84 Lower Main Street, Letterkenny",Donegal,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"9 st fintans road, sutton",Dublin,,"€440,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"94A, Iveragh road, Whitehall Dublin 9",Dublin,,"€420,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Annagleve, Castleblayney",Monaghan,,"€290,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Apartment 12 Reuben Street, Rialto",Dublin,,"€147,050.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+12/08/2011,"Apartment 43, Tramway Court, Tallaght",Dublin,,"€75,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Apartment 57, Tramway Corut, Tallaght",Dublin,,"€75,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Apartment No. 9, Block B  Farnham Court, Farnham Road",Cavan,,"€86,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+12/08/2011,"Apartment No.24, Clarence Gate  Kilkenny Road, Carlow",Carlow,,"€61,232.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+12/08/2011,"Apt 34  The Green, Larchill, Santry",Dublin,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Apt 43 Block K, Hanover, Riverside",Dublin,,"€320,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"B10 Spanish Cove, Kilkee",Clare,,"€84,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"BALLYBRUSA, GRANGE",Waterford,,"€275,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Ballyvaughan, Powerstown, Clonmel",Tipperary,,"€35,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Cahore, Gorey",Wexford,,"€241,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Carracastle, Bohola",Mayo,,"€72,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Carrowgarve, Tibohine, Castlerea",Roscommon,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Clonfad, Kinnegad",Westmeath,,"€145,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Clonmel Road, Cahir",Tipperary,,"€210,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Clooncullane, Strokestown",Roscommon,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Cooga Upper, Doon",Limerick,,"€105,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Coolrus, Bruree",Limerick,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Courtnaboughla, Goresbridge",Kilkenny,,"€100,000.00",No,No,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+12/08/2011,"Eglington House, 75 Eglington Road, Donnybrook",Dublin,,"€1,350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Gortmore, Ballywilliam, Nenagh",Tipperary,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"gortnacarriga, barleycove, goleen",Cork,,"€135,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Hickeys Lane, Baltrasna, Ashbourne",Meath,,"€415,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Island Road, Newmarket",Cork,,"€245,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Kilcannon, Dunhill",Waterford,,"€120,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Kilfinny, Adare",Limerick,,"€229,074.89",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Laughta, Kinlough",Leitrim,,"€83,333.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Lisnahederna, Virginia",Cavan,,"€109,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Middleton House, Cloghran",Dublin,,"€400,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Monanague, Knockraha",Cork,,"€295,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"No. 1 Cedar Grove, Firhouse Road, Templeogue",Dublin,,"€229,074.88",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+12/08/2011,"Oakfield, Rahardrum, Virginia",Cavan,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Parke, Kinnegad",Westmeath,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"ROBIN HILL, CORCULLEN",Galway,,"€723,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Slattagh More, Rooskey",Roscommon,,"€25,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Traceytown West, Taghmon",Wexford,,"€25,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+12/08/2011,"Uggool, Moycullen",Galway,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"1 Creggan lower, Creggan Dublin Road, Athlone",Westmeath,,"€246,696.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"1 Parkhill Green, Kilnamanagh",Dublin,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"11 Kelston Park, Foxrock, Dublin 18",Dublin,,"€450,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"11 Station Road, Ballyshnnon",Donegal,,"€68,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"110 Altan, Western Distributor Road, Knocknacarra",Galway,,"€108,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"110 Grange Road, Baldoyle",Dublin,,"€350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"141 The Hermitage, Dublin Road, Portlaoise",Laois,,"€115,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"196 St. Helen's Village, Kilrane, Rosslare Harbour",Wexford,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"199, Ard Baithin, St Johnston",Donegal,,"€35,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"2  Park Terrace, Mountmellick",Laois,,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"2 Belarmine Heath, Stepasid",Dublin,,"€321,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"20 The Brambles, Pembroke Wood, Passage West",Cork,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"21 Edenmore Drive, Raheny",Dublin,,"€195,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"21 Shamrock Road, Shamrock Lawn, Douglas",Cork,,"€208,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"25 Bayview Grange, Ballynerrin, Wicklow Town",Wicklow,,"€193,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"26 Lintown Court, Lintown Hall, Johnswell Road",Kilkenny,,"€135,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"29 Deer Park, Virginia",Cavan,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"2/3 Parson Street, Maynooth, Co. Kildare",Kildare,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"3  The Grove, Huntsfield, Dooradoyle",Limerick,,"€182,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"3 Beech Park, Castle Road, Kilkenny",Kilkenny,,"€177,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"31 ABBEY AVENUE, IRISH ESTATES, CORBALLY",Limerick,,"€195,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"32 Graigowen, Carlow Road, Tullow",Carlow,,"€60,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"34 Verbena Avenue, Sutton, Dublin 13",Dublin,,"€290,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"36 Lana An Bhaile, Craughwell, Co. Galway",Galway,,"€132,158.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+15/08/2011,"4 Adare Park, Coolock, Dublin 17",Dublin,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"4 Redwood Park, Murrintown",Wexford,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"41  Boroimhe Hawthorn, Swords",Dublin,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"47 Meadowbank, Bushy Park Road, Rathgar",Dublin,,"€411,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"5 Church View, Leap",Cork,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"53 O'Hanlon Park, Dundalk",Louth,,"€74,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"61 SOMERTON, DONABATE",Dublin,,"€300,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"68 The Pines, Arklow",Wicklow,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"7 PEBBLE DRIVE, PEBBLE BEACH, TRAMORE",Waterford,,"€50,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"74  Carrigweir, Tuam",Galway,,"€139,207.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+15/08/2011,"82 Manor Hill, Ballincollig, Cork",Cork,,"€237,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"9  Lake Drive  Ivowen, Kilsheelan",Cork,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Apartment 8, 6 Reuben Plaza, Rialto",Dublin,,"€110,000.00",Yes,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+15/08/2011,"Ardlogher, Ballyconnell",Cavan,,"€54,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Ballyboy, Tubber Road, Gort",Galway,,"€103,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+15/08/2011,"Barna Gap, Ballymorris, Cratloe",Clare,,"€345,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Birch Hall, Oughterard",Galway,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Brookfield, The Cockle Road, Monasterboice",Louth,,"€340,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Cloonchambers, Castlerea",Roscommon,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Coras Point, Cavan",Cavan,,"€107,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Creeve, Elphin, County Roscommon",Roscommon,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Dunmanway Road, Drimoleague",Cork,,"€138,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Fardystown, Rathaspeck",Wexford,,"€253,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Glenkeo, Carrigart",Donegal,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Harristown, Navan",Meath,,"€97,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Kilminnon South, Dungarvan",Waterford,,"€84,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Mullaghmore Road, Creevykeel, Cliffony",Sligo,,"€265,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"No. 6 Finnihy Banks, Kenmare",Kerry,,"€112,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Polerone, Mooncoin",Kilkenny,,"€105,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Roshin Acres, Burtonport",Donegal,,"€81,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Site 10, The Village, Cloughjordan",Tipperary,,"€147,012.33",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+15/08/2011,"SMORANE, SKIBBEREEN",Cork,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"The Standing Stone, Schull",Cork,,"€118,490.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+15/08/2011,"Urlaur, Kilkelly",Mayo,,"€30,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"1 Summerfield Close, Blanchardstown",Dublin,,"€268,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"101 Cluain Bui, The Moyne, Enniscorthy",Wexford,,"€92,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"101 Leslie's Arch, Old Quarter, Ballincollig",Cork,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"121 Oakleigh Wood, Dooradoyle, Limerick",Limerick,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"14 Ashmount Court, Silversprings",Cork,,"€75,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"14 O'Curry Road, South Circular Road",Dublin,,"€155,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"14 Scots Marsh House, 23 William St, Waterford",Waterford,,"€55,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"14 The Croft, Clarinwood, Tramore",Waterford,,"€148,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"15 Newbridge Avenue, Sandymount",Dublin,,"€750,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"16 Percy French Road, Walkinstown",Dublin,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"165 The Glen, Kilnacourt Wood, Portarlington",Laois,,"€98,999.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+16/08/2011,"18 Balfe Road, Walkinstown",Dublin,,"€132,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"18 Castlewood Avenue, Rathmines",Dublin,,"€632,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"18 WOODLANDS, ABBEYCARTRON",Longford,,"€25,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"19 Cliften Drive, Ballyfermot, Dublin 10",Dublin,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"2 Ashleigh Gardens, Ovens",Cork,,"€460,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"2 Greenlands, Castleside Drive, Rathfarnham",Dublin,,"€232,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"211  Balrothery Estate, Tallaght",Dublin,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"22 Abbeycourt, Limerick Road, Ennis",Clare,,"€195,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"24 Casimir Road, Harold's Cross",Dublin,,"€375,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"26 Pheasant Walk, Collins Avenue, Waterford",Waterford,,"€198,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"28 Hammond Street, Dublin 8",Dublin,,"€97,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"29 Seafield Court, Off Seafield Road, Killiney",Dublin,,"€306,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"3 Carheen Ard, Caherlistrane",Galway,,"€185,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+16/08/2011,"4 Clermont Cottages, South Douglas Road",Cork,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"4 Cnoc Ard Mews, Ballina",Tipperary,,"€120,242.29",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+16/08/2011,"4 Kent Street, Clonakilty",Cork,,"€85,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"4 Seabury Vale, Malahide",Dublin,,"€315,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"47 Loch Conn Road, Ballyfermot",Dublin,,"€171,509.30",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"55  Brookdale Lawns, Rivervalley, Swords",Dublin,,"€241,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"69 Pinebrook Vale, Clonsilla",Dublin,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"7 Lambourne Wood, Brennanstown Road, Cabinteely",Dublin,,"€740,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"7 Moreen Avenue, Sandyford, Dublin 18",Dublin,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"9 Dal Riada, Portmarnock",Dublin,,"€540,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"apartment 39, 55 mountjoy square, dublin 1",Dublin,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Apartment 6C, The Croft  Parc Na Silla, Loughlinstown",Dublin,,"€220,000.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+16/08/2011,"Ballyboes, Rathmullen",Donegal,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Bogganfin, Athlone",Roscommon,,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Bungalows 9&10  Galway Bay Cottages, Forramoyle East, Barna",Galway,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Carrowmoreknock, Roscahill, Galway",Galway,,"€25,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Croagh, Rathkeale",Limerick,,"€101,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Dublin Road, Kingscourt",Cavan,,"€50,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Ederglen, Bangor Erris, Ballina",Mayo,,"€33,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Holly Lodge, 28 Glenvar Park, Blackrock",Dublin,,"€990,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Kilanerin, Gorey",Wexford,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Kilmacoe, Curracloe",Wexford,,"€225,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Knockrobin, Camolin",Wexford,,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Leyland House, Caherslee, Tralee",Kerry,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Mountmahon, Abbeyfeale",Limerick,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Parochial House, Clarecastle",Clare,,"€85,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Poulawillin, Miltwon Malbay",Clare,,"€73,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Stonestown, Cloghan",Offaly,,"€174,906.71",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+16/08/2011,"Stoneville, Kilnagleary, Carrigaline",Cork,,"€213,330.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"1 Ashgrove Park, Naas",Kildare,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"1 Callenders Mill, Simmonscourt Manor, Celbridge",Kildare,,"€272,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"11 Friars Hill, Graiguenamanagh",Kilkenny,,"€105,726.87",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+17/08/2011,"11 & 12 Mary Street, Drogheda, County Louth",Louth,,"€132,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"111 Saint Mobhi Road, Glasnevin",Dublin,,"€460,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"12 Lagan House, Custom House Quay, I.F.S.C.",Dublin,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"13 Clarence Gate, Kilkenny Road, Carlow",Carlow,,"€66,080.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+17/08/2011,"13 The Grove, Plunkett Hall, Dunboyne",Meath,,"€362,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"15 LISMEEN HILL, BALLYJAMESDUFF",Cavan,,"€88,100.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+17/08/2011,"150 Glenside, Newtown, Annacotty",Limerick,,"€161,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"152 Charlesland Court, Greystones",Wicklow,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"17 The Hazels, Oakleigh Wood, Ennis",Clare,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"19 Belarmine Hall, Newtownlittle, Stepaside",Dublin,,"€114,493.39",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+17/08/2011,"19c Moorefield Avenue, clondalkin",Dublin,,"€63,250.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"2 Ballbeg Drive, Ballybeg",Waterford,,"€62,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"205 Holywell, Dundrum",Dublin,,"€351,200.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"22 O'Gara Villas, Moville",Donegal,,"€55,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"26 Glen Downs, Stradbally Road, Portlaoise",Laois,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"26 Willbrook Road, Rathfarnham, Dublin 14",Dublin,,"€482,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"27 Summerhaven, Summerhill, Carrick-on-SHannon",Leitrim,,"€75,900.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+17/08/2011,"3 Hazelwood Cottages, Calry",Sligo,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"31 Oaklands Drive, Rathgar, Dublin 6",Dublin,,"€680,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"32 Greenlodge, Maryborough Woods, Douglas",Cork,,"€195,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"33 The Paddocks, Garey",Wexford,,"€265,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"4 Leesdale, Model Farm Rd",Cork,,"€177,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"43 Castleforde, Ballyconnell",Cavan,,"€100,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+17/08/2011,"47 Danesfort Drive, Loughrea",Galway,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"48A Belmayne Avenue, Belmayne, Balgriffin",Dublin,,"€62,500.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"49 Dalysfort Road, Salthill",Galway,,"€290,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"52 Ballinteer Crescent, Ballinteer, Dublin 16",Dublin,,"€330,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"56 Caledon Road, Eastwall, Dublin 3",Dublin,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"56 Carrigeen, Annacotty, Limerick",Limerick,,"€195,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"58 Clancy Road, Finglas",Dublin,,"€275,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"58 Rochestown Park, Dun Laoghaire, Co. Dublin",Dublin,,"€242,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"6 Cul na Coille, Cappahard, Ennis  Tulla Road",Clare,,"€79,296.15",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+17/08/2011,"6 Holly Drive, Lacken Wood",Waterford,,"€103,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"65 66 and 67 An Saileachain, Raheen, Athenry",Galway,,"€677,797.97",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+17/08/2011,"8 Springfield Road, Templeogue",Dublin,,"€445,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"80 ST FINTAN'S PARK, DEANSGRANGE, BLACKROCK",Dublin,,"€317,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"87 Hillside Drive, Mullingar",Westmeath,,"€126,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"87 Villa Park Gardens, Navan Road",Dublin,,"€350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"8B Oak Hill, Castlecomer",Kilkenny,,"€111,948.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+17/08/2011,"9 Holywell Grove, Sea Road, Kilcoole",Wicklow,,"€293,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+17/08/2011,"90 Elmbrook Crescent, Lucan",Dublin,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"92 Bandon Road, Cork",Cork,,"€187,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Apartment 8, 2 Reuben Plaza, Rialto",Dublin,,"€136,564.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+17/08/2011,"Apt 84  Red Arches Road, The Coast, Baldoyle",Dublin,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Ballyellen, Inch, Gorey",Wexford,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"BAREFIELD, ENNIS",Clare,,"€254,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Bunreagh, Croghan, Boyle",Roscommon,,"€25,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Cloneen, Crettyard, County Kilkenny",Kilkenny,,"€76,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"CORLECKY, BALLYBOFEY",Donegal,,"€54,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Daars South, Sallins",Kildare,,"€385,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Dromleigh South, Bantry",Cork,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Drumderg, Clonmore, Mullingar",Westmeath,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Kelmur House, Redshire Road, Murrintown",Wexford,,"€360,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"kidlawn, Ballinasloe",Roscommon,,"€50,700.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Kilclooney, Kilmacthomas",Waterford,,"€50,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Kildangan House, Durrow, Tullamore",Offaly,,"€68,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Knocka, Drom, Templemore",Tipperary,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Knockfad, Ballyhaise",Cavan,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Lisrhatigan, Granard",Longford,,"€20,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+17/08/2011,"Meadow House, Cahernorry, Ballyneety",Limerick,,"€820,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"Moyriesk, Quin",Clare,,"€340,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"No 3 Canal Road, Galway",Galway,,"€152,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+17/08/2011,"No. 2 Cul na Coille  Cappahard, Tulla Road, Ennis",Clare,,"€247,074.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+17/08/2011,"Unit No 31 Parsons Court, Newcastle, Co. Dublin",Dublin,,"€259,911.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+18/08/2011,"1 MOUNTHAVEN, GREYSTONES",Wicklow,,"€550,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"1 Wheatfield, Bray",Wicklow,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"10 abbeywood crescent, lucan, co dublin",Dublin,,"€255,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"108  Ardglass, Baltinglass",Wicklow,,"€118,105.73",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+18/08/2011,"11 Abbeyfields, Loughrea, Co. Galway",Galway,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"11A Grosvner Mews, Rathmines, Dublin 6",Dublin,,"€401,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"12 Harbour Row, longford",Longford,,"€20,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"12 The Moorings, Fitzwilliam Quay, Dublin 4",Dublin,,"€134,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"132 Northumberlands, Lower Mount Street, Dublin 2",Dublin,,"€138,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"14 Fortfield Avenue, Terenure",Dublin,,"€507,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"15 Chesnut Crescent, Castlelake, Carrigtwohill",Cork,,"€100,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+18/08/2011,"16 Forge Park, Oakpark, Tralee",Kerry,,"€155,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"164 Ard Na Ri, Druid Valley, Cabinteely",Dublin,,"€235,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"166 Tolka Road, Clonliffe Road, Dublin 3",Dublin,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"17 Beechfield Estate, Fermoy",Cork,,"€75,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"17 Marino Park, Marino",Dublin,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"19 holly road, donnycarney, dublin",Dublin,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"2 Lower Canal Road, Galway",Galway,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"2 The Orchard, Sweetmount Avenue, Dundrum",Dublin,,"€60,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"2 Thornbury Meadows, Duntahane, Fermoy",Cork,,"€217,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"21 Sallins Pier, Sallins, Co Kildare",Kildare,,"€168,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"23 Chestnut Meadows, Bishopstown, Cork",Cork,,"€330,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"240 Wyckham Point, Wyckham Way, Dublin 16",Dublin,,"€275,000.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+18/08/2011,"249 Upper Kilmacud Road, Stillorgan, Dublin 14",Dublin,,"€280,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"26 The Abbey, Classes Lake, Ovens",Cork,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"27 Glendoher Avenue, Rathfarnham, Dublin 16",Dublin,,"€275,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"28 Chestnut Drive, Midleton",Cork,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"29 Convent Road, Blackrock, Cork",Cork,,"€263,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"2, ST. OLAVES, KINSEALY",Dublin,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"3 Seabury Lane, Malahide, Co. Dublin",Dublin,,"€269,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"3 treen hill, lusk",Dublin,,"€350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"32 Bruach Tailte, Borrisokane Road, Nenagh",Tipperary,,"€113,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"32 Clandonagh Road, Donnycarney",Dublin,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"35 Ailesbury Road, Donnybrook",Dublin,,"€2,325,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"35 Cedar Court, Terenure, Dublin 6W",Dublin,,"€252,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"38 Kilmalum Avenue, Blessington Manor, Blessington",Kildare,,"€265,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+18/08/2011,"4 Grace Avenue, Gracefield Manor, Ballylynah",Laois,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"4 Mount Bellew Rise, Lucan",Dublin,,"€203,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"46 Pinewood Green Avenue, Balbriggan",Dublin,,"€44,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"48  Beach Road, Sandymount, Dublin 4",Dublin,,"€550,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"57 Westcourt Demesne, Callan",Kilkenny,,"€75,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"6 Marian Terrace, Maypark Lane, Waterford",Waterford,,"€118,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"6 Newcastle Court, Newcastle, Galway",Galway,,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"6 Rath View, Curryhills, Prosperous",Kildare,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"7 Jutland Hall, Limerick",Limerick,,"€163,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"8 The Avenue, Bridewood, Ovens",Cork,,"€370,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"8 The Avenue, Cypress Downs, Templeogue",Dublin,,"€370,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"9 Churchview, Balla",Mayo,,"€114,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"Apartment D5, Harveys Dock, Youghal",Cork,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"Ballymacarbry Upper, Ballymacarbry",Waterford,,"€115,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"Clogh East, Croagh",Limerick,,"€250,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+18/08/2011,"Clonbonniffe, Belmont",Offaly,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"Coolnahinch, Kells Lower, Newcastle",Meath,,"€427,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"Cottage, Lehenaghmore, Farmers Cross",Cork,,"€145,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"crobally upper, old parish",Waterford,,"€350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"DERRINOGHRAN, CLOONLOO, BOYLE",Sligo,,"€110,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+18/08/2011,"Dunmore, Falcarragh",Donegal,,"€12,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"Emlaghmore, Ballyconneely",Galway,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"Gortarush, Kilpatrick, Co. Tipperary",Tipperary,,"€47,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"Kilgowan Lodge, Kildare Town",Kildare,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"KILMURRY, KENMARE",Kerry,,"€296,035.23",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+18/08/2011,"Knocknagonnell, Ballymoe",Galway,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"Nephin, Old Yellow Walls Road, Malahide",Dublin,,"€630,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"No 4 Mayfield, Kells Road, Kilkenny",Kilkenny,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"Oakwood, Claremont Pines, Carrickmines",Dublin,,"€965,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"Rockery Gardens, Skerries Road, Lusk",Dublin,,"€420,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+18/08/2011,"Tromaty, Quigley's Point",Donegal,,"€184,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"1 Forest Park, Kilmoney, Carrigaline",Cork,,"€172,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"1 Hectar Street Mills, Kilrush",Clare,,"€110,132.15",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+19/08/2011,"10 Castle Falls, Ross Road, Killarney",Kerry,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"10 MARINE DRIVE, SANDYMOUNT",Dublin,,"€971,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"10 Roebuck Hall, Roebuck Road, Clonskeagh",Dublin,,"€135,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"11 Shanacloon, Shanballa, Lahinch Road  Ennis",Clare,,"€112,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"12 Berry's Close, Spa Road, Inchicore",Dublin,,"€117,909.10",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"12 Ceann Mara Court, Pairc na Gloine, Kenmare",Kerry,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"13 Mill court, sixmilebridge, clare",Clare,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"13 The Boulevard, French Park, Tyrellstown",Dublin,,"€129,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"131 Sheelin Road, Caherdavin, Limerick",Limerick,,"€141,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"14  Hansfield, Clonee, Dublin",Dublin,,"€240,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"140 Merrion Road, Ballsbridge, Dublin 4",Dublin,,"€297,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"15 temple villas, palmerston road, rathmines",Dublin,,"€2,260,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"15 Tudor Lawns, Foxrock, Dublin 18.",Dublin,,"€440,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"150 Clonard, Westbury, Corbally",Limerick,,"€158,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"156 Athlumney Castle, Navan",Meath,,"€157,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"157 The Links, Donaabte",Dublin,,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"16 Lakelands Road, Stillorgan",Dublin,,"€335,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"17 garran Na coille, Claureen, ennis",Clare,,"€255,811.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+19/08/2011,"17 Redmond Cove, Wexford",Wexford,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"18 Drymill Lawns, Ballinvilla, Irishtown",Mayo,,"€125,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"2 Silverbrook, Trim Road, Navan",Meath,,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"24 Ovoca Road, Portobello",Dublin,,"€402,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"24 The Lawn, Woodbrook Glen, Bray",Wicklow,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"25 Auburn Close, Clonmel",Tipperary,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"256 Firmount, Clane",Kildare,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"27 Wainsfort Grove, Terenure",Dublin,,"€397,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"31  Kelly's Bay Shore, Kelly's Bay, Skerries",Dublin,,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"32 St. Mary's Park, Walkinstown, Dublin 12",Dublin,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"33 Home Farm Park, Drumcondra",Dublin,,"€400,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"33 NORFOLK ROAD, PHIBSBOROUGH",Dublin,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"34  Whitehall Road, Perrystown",Dublin,,"€196,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"34 St Herblain park, Waterford",Waterford,,"€28,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"4  Coleville Ave., Coleville Road, Clonmel",Tipperary,,"€335,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"4 Forster Park, Dalysfort Road, Salthill",Galway,,"€241,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"4 The Mews, Mount Eccles Court, Rear 41 North Great Georges Street",Dublin,,"€87,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"4 West Meadows, Synone, Boherlahan",Tipperary,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"40 Cryle View Close, Killarney Road, Abbeyfeale",Limerick,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"40DANESFORT, CORBALLY",Limerick,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"42 Hazelwood, Glanmire",Cork,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"43 Iona Road, Glasnevin, Dublin",Dublin,,"€525,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"44 Carrig Court, Citywest, Co Dublin",Dublin,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"45 Castle Gardens, St. Helen's Village, Kilrane",Wexford,,"€143,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"45 The Drive, Hunters Run, Clonee",Dublin,,"€194,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"49 Lismeen Hills, Virginia Road, Ballyjamesduff",Cavan,,"€74,889.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+19/08/2011,"5 Frankfort Court, Rathgar, DUblin 6",Dublin,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"5 Knockaphunta Close, Westport Road, Castlebar",Mayo,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"5 Upper Gladstone Street, Clonmel",Tipperary,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"54 Greencastle Avenue, Coolock",Dublin,,"€146,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"54 McHale Road, Castlebar, Co.Mayo",Mayo,,"€60,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"55 The Boulevard, French Park, Tyrellstown",Dublin,,"€124,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"7 Heath Square, McKee Avenue, Finglas",Dublin,,"€25,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"7 Sundays Well, Lisloose, Tralee",Kerry,,"€155,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"73 Waterloo Road, Ballsbridge, Dublin 4",Dublin,,"€1,350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"77 Burnaby Heights, Greystones",Wicklow,,"€267,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"77 Gurranabraher Road, Cork",Cork,,"€99,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"8 Ballybawn Cottages, Kilmacanogue",Wicklow,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"8 Cathedral Court, Ennis",Clare,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"8 The Demesne, Adare",Limerick,,"€1,600,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"9  The Mill, Tinnahinch, Graignamanagh",Kilkenny,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"9 Armada Cottages, Bundoran",Donegal,,"€70,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"92 Leinster Wood South, Carton Demesne, Maynooth",Kildare,,"€722,467.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+19/08/2011,"Apartment 20 House 1, Linden Square, Blackrock",Dublin,,"€285,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Apt 2 Sandycove House, Sandycove",Dublin,,"€340,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Attyregan, Ballymacward, Ballinasloe",Galway,,"€32,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Aughamore Lower, Aughnacliffe",Longford,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Ballinaclough, Rosscarbery",Cork,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Ballincolie Road, Ballyvolane, Cork",Cork,,"€107,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"CARROWMANEEN, KILCOLGAN",Galway,,"€196,561.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+19/08/2011,"castlelack, bandon",Cork,,"€95,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"clarahawn house, knockbodaly, graiguenamanagh",Kilkenny,,"€370,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Clonduff, Rosenallis",Laois,,"€56,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Darragh North, Ennis",Clare,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Doon West, Roscahill",Galway,,"€265,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Drummin, Nenagh",Tipperary,,"€237,800.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+19/08/2011,"Elisnore, Model Farm Road, Cork",Cork,,"€380,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Gahanive, Ardfield, Clonakilty",Cork,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Garda House, Rathdrum",Wicklow,,"€98,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Hornhead, Dunfanaghy",Donegal,,"€227,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Inchydoney Island, Inchydoney, Clonakilty",Cork,,"€475,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Knappagh Beg, Westport",Mayo,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"KNOCKANEACOOLTEEN, BALLYFINNANE, FIRIES",Kerry,,"€197,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+19/08/2011,"Newtown, Girley, Fordstown",Meath,,"€255,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"No 33 The Elms, Newbridge",Kildare,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Rossmore, Tahilla, Sneem",Kerry,,"€238,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"St Brendans Road, Portumna, County Galway",Galway,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"St. Martin's, Kilrush Road, Ennis",Clare,,"€115,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Thomastown, Ardlonan",Meath,,"€121,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+19/08/2011,"Tulla, Glenroe, Kilmallock",Limerick,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+20/08/2011,"Crosstown, Wexford",Wexford,,"€260,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"'Morans', The Weir",Galway,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"10 Ashville Close, Esker Lane, Lucan",Dublin,,"€420,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"105 Cluain Arra, Gortboy, Newcastle West",Limerick,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"11 Ailesbury Road, Ballsbridge",Dublin,,"€4,625,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"11 Sorrenta Villa, Old Blackrock Road, Cork",Cork,,"€295,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"11 the cove, kellys bay, skerries",Dublin,,"€260,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"148 Brian Road, Marino",Dublin,,"€303,800.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"15  Mountain Road, Cahir",Tipperary,,"€50,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"162 Rockview, Simons Ridge, Sandyford",Dublin,,"€96,916.29",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+22/08/2011,"18 Stradbally North, Castleconnell, Co Limerick",Limerick,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"18 The Heath, Adamstown Castle, Adamstow",Dublin,,"€189,427.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+22/08/2011,"19 CLANN HOUSE, DOMINICK STREET, GALWAY",Galway,,"€70,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"2 Rosebank, Douglas Road",Cork,,"€240,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"202 Richmond Park, Herbert Road, Bray",Wicklow,,"€218,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"21 Maryborough Court, Maryborough Hill, Douglas  Cork",Cork,,"€270,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"22  Mervue Crescent, Ballyvolane, Cork",Cork,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"24 glendine heights, castlecomer rd, kilkenny",Kilkenny,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"25. Slugaire, Dooradoyle, Limeick",Limerick,,"€300,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"29 Davitt Street, Tullamore",Offaly,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"3 fForster Close, Ballydowd Manor, Lucan",Dublin,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"3 Moyglas Way, Lucan, Co Dublin",Dublin,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"319 Clontarf Road, Clontarf, Dublin 3",Dublin,,"€350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"33 Landscape Cresent, Churchtown, Dublin 14",Dublin,,"€434,600.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"34 Melville Rise, Meakstown, Dublin 11",Dublin,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"38 Laurel Court, Oakpark, Tralee",Kerry,,"€124,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"38 Old Court, Greenfields, Ballincollig",Cork,,"€264,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"4 Corduff Avenue, Blanchardstown",Dublin,,"€46,750.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"4 Ryemount Abbey, Leixlip, County Kildare",Kildare,,"€520,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"40 Mountain View, Myshall",Carlow,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"42 Ardroe, Claremorris",Mayo,,"€45,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"5 Mountainview Road, Ranelagh",Dublin,,"€575,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"54 Rosehill, Newport",Tipperary,,"€175,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+22/08/2011,"55 Rosebank Court, Moville, Co. Donegal",Donegal,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"7 O'Garney Heights, Sixmilebridge",Clare,,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"7 Rinawade Park, Leixlip",Kildare,,"€243,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"77 Collins Avenue West, Whitehall, Dublin 9",Dublin,,"€295,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"8 Oaten Vale, Wheaton Hall, Drogheda",Louth,,"€222,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"9 Clifden Crescent, Newcastle, Co.Galway",Galway,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"9 Tolka Road, Drumcondra",Dublin,,"€148,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Apartment 1, The Wellington  Riverpark, Conyngham Road  Islandbridge",Dublin,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Apartment 40D, Carramore Drive, Knock",Mayo,,"€30,000.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+22/08/2011,"apartment 40E, Carramore Drive, Knock",Mayo,,"€30,000.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+22/08/2011,"Apartment 40F, Carramore Drive, Knock",Mayo,,"€30,000.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+22/08/2011,"Apartment 40G, Carramore Drive, Knock",Mayo,,"€30,000.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+22/08/2011,"Apartment 84, Bow Bridge Place, Kilmainham",Dublin,,"€105,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Ballycotton North, Liscannor",Clare,,"€198,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Ballygeale, Patrickswell",Limerick,,"€241,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Bullstown, The Ward",Meath,,"€30,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Cartymore North, Athenry",Galway,,"€85,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+22/08/2011,"Cloonamna, Kilmovee",Mayo,,"€36,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Collooney, County Sligo",Sligo,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Crosstown, Mayglass",Wexford,,"€26,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Crosswinds, Lisnagry",Limerick,,"€280,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Drumkeel, Dromahair, Co. Leitrim",Leitrim,,"€135,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Duninga, Goresbridge",Kilkenny,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Firhill, Parteen",Clare,,"€115,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Gurteenroe, Macroom",Cork,,"€96,666.66",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Kilqueeney, Avoca",Wicklow,,"€120,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Main Street, Castletown Geoghegan",Westmeath,,"€210,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"New Line, Charleville",Cork,,"€10,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Old Road, Carnashanagh, Burnfoot",Donegal,,"€17,228.57",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Rathpiper, Coolkerry, Rathdowney",Laois,,"€112,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"River Lane House, Farranasheshery, Enniskeane",Cork,,"€282,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Shivdella House, Belclare, Westport",Mayo,,"€700,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"slanelough, ashford",Wicklow,,"€560,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Teach Ban, Marsh Lane, Portrane",Dublin,,"€249,643.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+22/08/2011,"Treanboy, Convoy",Donegal,,"€85,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"11 Donaguile, Castlecomer",Kilkenny,,"€76,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"11 Sienna, Francis Street, Drogheda",Mayo,,"€86,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"12 Sandfield Terrace, Mallow",Cork,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"131 The Oval, Tullyvale Apartments, Cabinteely",Dublin,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"14 THE DRIVE, BROADALE, DOUGLAS",Cork,,"€194,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"19 Ardlea, Dunshaughlin",Meath,,"€262,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"2 Kilmantan Place, Bray",Wicklow,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"2 Merlyn Drive, Ballsbridge, Dublin",Dublin,,"€767,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"2 Tamarisk Park, Kilmananagh",Dublin,,"€241,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"20 Churchfields, Ashbourne, Co. Meath",Meath,,"€250,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+23/08/2011,"21 Gleann Na Tra, Sandy Road, Galway",Galway,,"€95,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"28 Sweetmount Avenue, Dundrum",Dublin,,"€446,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"3 The Courtyard, Kilcock",Kildare,,"€92,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"33 Peyton Court, Rathcoole",Dublin,,"€325,991.19",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+23/08/2011,"34 Millrace Park, Saggart",Dublin,,"€122,500.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+23/08/2011,"35 Cypress Grove, Loughboy",Kilkenny,,"€85,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"4 Ashbrook, Ballymoe",Galway,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"40 Albert College Avenue, Glasnevin, Dublin 9",Dublin,,"€251,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"41 Eaton Square, Terenure, Dublin 6w",Dublin,,"€565,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"44 Knockmoyle, Tralee",Kerry,,"€148,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"44 Priory Way, Manor Grove, Terenure",Dublin,,"€308,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"5 Mount Oval, Rochestown, Cork",Cork,,"€579,200.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"52 ST ALBANS PARK, SANDYMOUNT",Dublin,,"€840,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"59 Spencer House, Custom House Square, Mayor Street",Dublin,,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"6  Channel Road, Rush",Dublin,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"60 Beechwood Downs, Hartstown, Clonsilla",Dublin,,"€85,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"61 Allen Park Road, Stillorgan",Dublin,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"63 Grangemore Drive, Donaghmede, Dublin 13",Dublin,,"€185,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"69  Brighton Square, Rathgar, Dublin",Dublin,,"€1,195,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"7 Monaloe Drive, Blackrock, Co Dublin",Dublin,,"€453,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"8 Woodlands Ave., mullingar",Westmeath,,"€112,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"82 Oaklawns, St Alphonsus Road, Dundalk",Louth,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"89 Crann Nua, Portarlington",Laois,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"Apartment No.22 Clarence Gate, Kilkenny Road, Carlow",Carlow,,"€61,232.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+23/08/2011,"Apt 175 Turvey Walk, Donabate",Dublin,,"€153,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+23/08/2011,"Apt 18 Block 6 Park Crescent House, Blackhorse Avenue",Dublin,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"Ardcost, Caherciveen, Co Kerry",Kerry,,"€340,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+23/08/2011,"Ballyphilip, Croom",Limerick,,"€53,333.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"Kilcaramore, Duagh, Co. Kerry",Kerry,,"€37,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"knockaun, ballymacarbry",Waterford,,"€95,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"Knockpatrick, Lahinch",Clare,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"No 35 The Hermitage, Millstreet Road, Macroom",Cork,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"No. 2 Crover Cottages, Crover, Mountnugent",Cavan,,"€81,971.50",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"No. 25 Red Abbey Court, Margaret Street, Cork",Cork,,"€185,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"No. 59 Cill Ard, Bohermore, Galway",Galway,,"€124,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+23/08/2011,"Oort, Gleneely",Donegal,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"101 MARYVILE ROAD, ST. ANNE'S, RAHENY",Dublin,,"€235,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"11 The Avenue, Sevitt Manor, Bettystown",Meath,,"€310,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"110 Granitefield, Cabinteely",Dublin,,"€290,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"12 The Dale, Luttrell Hall, Dunboyne",Meath,,"€285,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"127 St Declan's Road, Marino, Dublin 3",Dublin,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"13 Orchid Grove, Abbeyfort, Kinsale",Cork,,"€265,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+24/08/2011,"133 Stillorgan Road, Donnybrook, Dublin 4",Dublin,,"€900,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"14 Ramleh Villas, Milltown",Dublin,,"€560,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"14 Victoria Terrace, Glenbrook",Cork,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"15 All Saints Road, Raheny, Dublin5",Dublin,,"€300,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"15 Ellesmere Avenue, Phibsborough",Dublin,,"€185,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"16 CHURCH STREET, LISTOWEL",Kerry,,"€185,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"16 Eiscir End Road, Eiscir Meadows, Tullamore",Offaly,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"171 Holywell, Upper Kilmacud Road, Dublin 14",Dublin,,"€462,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"179 SARTO LAWNS, SUTTON",Dublin,,"€300,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"19B Santry Villas, Santry, Dublin 9",Dublin,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"2 Devoy Glade, Johnstown, Naas",Kildare,,"€231,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"2 Doolargy, Ravensdale, Dundalk",Louth,,"€85,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"23 Castleknock Rise, Castleknock, Dublin 15",Dublin,,"€221,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"23 ROCKBORO HEIGHTS, WATERPARK, CARRIGALINE",Cork,,"€122,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"233 Castle Park, Ballybane, Galway",Galway,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"24 Adelaide Meadows, Greencastle",Donegal,,"€75,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"24 Cill Beg Manor, Kylebeg, Stradbally",Laois,,"€44,053.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"26 Cill Beg Manor, Kylebeg, Stradbally",Laois,,"€44,053.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"28 St.Fanahan's Place, Mitchelstown",Cork,,"€70,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"29 Bruach na hAbhann, Killeen, Maganey",Laois,,"€170,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+24/08/2011,"2A Monksfield Heights, Clondalkin, Dublin 22",Dublin,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"2.4 Haddon Court, Clontarf, Dublin 3",Dublin,,"€227,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"3 Delwood Road, Castleknock, Dublin 15",Dublin,,"€370,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"31 Garavogue Villas, Sligo",Sligo,,"€60,500.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"313 Collinswood, off Collins Avenue, Beaumont",Dublin,,"€255,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"34 Woodbrook, Glanmire Court  Castlejane, Glanmire",Cork,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"35 Armstrong grove, Clara",Offaly,,"€129,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+24/08/2011,"37 Levmoss Avenue, The Gallops, Sandyford",Dublin,,"€253,445.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+24/08/2011,"4 St John's Park, Buncrana",Donegal,,"€37,500.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"5 HEATHERFIELD, WATERFALL",Cork,,"€495,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"5 The Meadows, Graigavern Lodge, Ballybrittas",Laois,,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"55 Butterstream Manor, Trim",Meath,,"€202,642.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+24/08/2011,"65 Brookdale Lawns, Rivervalley, Swords",Dublin,,"€244,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"66 Ashfield, Carnamuggagh, Letterkenny",Donegal,,"€100,502.42",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+24/08/2011,"67, SHANGANAGH CLIFFS, SHANKILL",Dublin,,"€78,375.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"69 MEADOWBROOK, TRAMORE, CO WATERFORD",Waterford,,"€135,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"8 Abbey Grove, Gowran",Kilkenny,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"9  Eastham Village, Eastham Village, Bettystown",Meath,,"€263,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"ABERCORN, RAHTBRAUGHAN LINE, SLIGO",Sligo,,"€265,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Apartment 12, Riverside, Milltown Road Milltown",Dublin,,"€183,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Apartment 13, 2 Reuben Plaza, Rialto",Dublin,,"€159,950.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+24/08/2011,"Apartment 44 Block C, Parkside, Abbeyleix Rd  Portlaoise",Laois,,"€110,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+24/08/2011,"APARTMENT 47 COLLINS SQUARE, BENBURB STREET",Dublin,,"€240,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Apt. 84 Fitzwilliam Quay, Ringsend",Dublin,,"€245,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Ardilea, Menlo, Co. Galway",Galway,,"€209,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Bellurgan, Dundalk",Louth,,"€305,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Carabeg, 2 Burmah Close, Dalkey",Dublin,,"€410,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Carrigrohane House, Carrigrohane, Cork",Cork,,"€1,726,844.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Cashell, Annyalla",Monaghan,,"€35,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Cloonakilley, Mount Talbot",Roscommon,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Kilcreene, Co. Kilkenny",Kilkenny,,"€54,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Killamuck, Abbeyleix",Laois,,"€210,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Kilnagarbet, Stradone",Cavan,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"KNOCKNACASSA, CURRANE, ACHILL",Mayo,,"€65,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Marbourne Lodge, Lovers Lane, Kilkenny",Kilkenny,,"€97,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Mullaghruttery, Claregalway",Galway,,"€46,750.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Mullough House, Mullough Abbey, Newcastle",Tipperary,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"No 3 Sycamore Drive, Pairc na gCapaill, Kilworth",Cork,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Station Road, Ennis",Clare,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Summerhill, Carrick on Shannon",Leitrim,,"€145,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Teach Nulty, Skreen, Tara",Meath,,"€310,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"The Boat Inn, Market Square, Oughterard",Galway,,"€60,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"The Bungalow, Ballysimon Road, Limerick",Limerick,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"The Loft, Coolnakilla, Fermoy",Cork,,"€320,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Well Road, Douglas, Cork",Cork,,"€510,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+24/08/2011,"Windy Valley, Coleman, Arthurstown",Wexford,,"€100,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"'Lawnside', Gordon Avenue, Foxrock",Dublin,,"€1,185,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"1 Muckross Parade, North Circular Road, Dublin 7",Dublin,,"€99,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"105 Meadow Grove, Dundrum, Dublin 14",Dublin,,"€370,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"108 castleknock elms, castleknock",Dublin,,"€225,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"11 Belmont Park, Donnybrook",Dublin,,"€380,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"11 Hastings Court, Balbriggan, Co Dublin",Dublin,,"€90,750.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+25/08/2011,"12 Dr Mannix Road, Galway",Galway,,"€368,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"13 Dermot O'Hurley Avenue, Stella Gardens, Irishtown",Dublin,,"€91,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"136 The Crescent, Millbrook Lawns, Tallaght",Dublin,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"14 Coillte Bo, Loughlynn",Roscommon,,"€60,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"15  Redbarn, Youghal, Co. Cork",Cork,,"€60,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"1757 Pairc Mhuire, Newbridge",Kildare,,"€127,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"2  Cornamaddy, Athlone",Westmeath,,"€75,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"21 Church View, Ballyhaise, Co. Cavan",Cavan,,"€119,030.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+25/08/2011,"25 Beechwood Avenue, Newcastlewest",Limerick,,"€98,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"27 Pairc na Ri, Athenry",Galway,,"€123,347.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+25/08/2011,"28  Ailesbury Lawn, Dundrum",Dublin,,"€358,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"28 Grosvenor Square, Rathmines",Dublin,,"€613,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"28 West Lawn, Wilton, Cork",Cork,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"3 Coireann Close, Spunkane, Waterville",Kerry,,"€103,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"3 Old Court Quay, Tholsel Street, Dundalk",Louth,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"33 O'Hogan Road, Ballyfermot",Dublin,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"34 St. Alphonsus Road, Waterford",Waterford,,"€82,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"35 The Walk, Robswall, Malahide",Dublin,,"€290,749.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+25/08/2011,"36 Broadmeadow Green, Ashbourne",Meath,,"€88,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"38 Ashgrove, Ballyvelly, Tralee",Kerry,,"€52,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"4 Main Street, Timoleague",Cork,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"41 Gleann Rua, Lurgan Park, Murrough",Galway,,"€159,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"44 Greenville Terrace, South Circular Road",Dublin,,"€270,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"5 College Court, Castletroy",Limerick,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"5 Templeview Way, Clarehall, Dublin 13",Dublin,,"€225,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"5 Whitechapel Court, Clonsilla, Dublin 15",Dublin,,"€71,500.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"52 Shantalla Drive, Beaumont",Dublin,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"56 Grange Hall, Cooksland, Dunshaughlin",Meath,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"6 Osborne Court, Seapoint Avenue, Blackrock",Dublin,,"€365,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"63 Old Millrace, Rathangan Road, Monastrevin",Kildare,,"€92,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"64 Saul Road, Crumlin, Dublin12",Dublin,,"€75,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"69 New Haven Bay, Balbriggan",Dublin,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"7 Burnaby Court, Greystones",Wicklow,,"€76,250.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"7 Carrig Heights, Gracedieu, Waterford",Waterford,,"€165,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"7 Warren Avenue, Boyle, County Roscommon",Roscommon,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"73 Brightwater, Crosshaven",Cork,,"€155,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"75 Skreen Road, Navan Road",Dublin,,"€348,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"78 Redford Park, Greystones",Wicklow,,"€195,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"89 Bakers Road, Gurranabraher",Cork,,"€66,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"9 Carn Glas Grove, Carn Glas, Gracedieu  Waterford",Waterford,,"€160,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"90 Marsham Court, Kilmacud, County Dublin",Dublin,,"€350,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Apartment 43/44, Block B, Parkside  Portlaoise",Laois,,"€120,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+25/08/2011,"Apatrtment No. 9, Castle Park Court, 57 Castlepark Road Dalkey",Dublin,,"€268,722.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+25/08/2011,"Balroe, Ballynacargy",Westmeath,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Bridge Road, Belmullet",Mayo,,"€260,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Bridge Road, Belmullet",Mayo,,"€370,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Carrigeenahaha, Stradbally",Waterford,,"€275,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Carrowloughan, Dromard",Sligo,,"€260,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Carrownaskea, Cloonconnor, Claremorris",Mayo,,"€91,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Castlebank, Ardnacrusha",Clare,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"clonicivant, killucan",Westmeath,,"€141,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Cornamuckla, Ballymoe",Galway,,"€44,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"cullentry, longwood, enfield",Meath,,"€302,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Curry South, Curry",Sligo,,"€101,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Mountnugent, Mountnugent",Cavan,,"€85,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"no.6, rent an irish cottage, carrigaholt",Clare,,"€87,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Old Garda Barrack, Main Street, Ballyheigue",Kerry,,"€230,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Ovidstown, Donadea, Naas",Kildare,,"€270,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"RANGUE, KILLORGLIN",Kerry,,"€52,250.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Rossleigh  Ballybeg, Ennis",Clare,,"€420,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Scullabogue, Foulksmills",Wexford,,"€159,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Shelmalier Commons, Barntown",Wexford,,"€430,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Smoore, Dunhill",Waterford,,"€40,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"The Claddagh, Galway",Galway,,"€50,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"The Heneys, Lough Eske, Donegal Town",Donegal,,"€214,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Toll Bridge Cottage, Dromland",Clare,,"€119,450.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+25/08/2011,"Whitelands, Ballycorus  Road, Kilternan",Dublin,,"€567,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"'The Angelus', 15 Assumption Road, Blackpool",Cork,,"€73,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"10 Blackheath Court, Clontarf, Dublin3",Dublin,,"€260,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"10 The Paddocks Rise, Adamstown",Dublin,,"€198,237.89",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+26/08/2011,"10 Warren Crescent, Warren Park, Castleknock",Dublin,,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"100 Greenhills Estate, Ballina",Mayo,,"€37,950.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"11 Grosvenor Court, Clontarf, Dublin 3",Dublin,,"€340,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"114 Sandford Road, Ranelagh, Dublin 6",Dublin,,"€600,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"11a Laghtagoona, Corofin",Clare,,"€157,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"12 Cannonbrook Avenue, Newcastle Road, Lucan",Dublin,,"€210,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"12 Cluain Mhor, Tramore",Waterford,,"€149,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"12A Woodfield, Tuam",Galway,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"13 Sylvan Avenue, Newcastle, Galway",Galway,,"€283,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"14 Sarto Road, Sutton, County Dublin",Dublin,,"€325,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"15  Woodlawns Hall, Ratoath",Meath,,"€262,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"15 The Maltings, Bray",Wicklow,,"€155,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"151 Dublin Road, Sutton",Dublin,,"€900,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"16 Alderwood Green, Springfield, Tallaght",Dublin,,"€128,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"16 Ashfield Way, Huntstown",Dublin,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"16 Auburn Green, Clonmel",Tipperary,,"€155,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"16 Castlegate Copse, Adamstown, Lucan",Dublin,,"€165,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+26/08/2011,"16 Moss Brook, Prosperous, Co. Kildare",Kildare,,"€145,639.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+26/08/2011,"16 REENMEEN WOODS, GLENGARRIFFE",Cork,,"€149,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"164 Castle Avenue, Clontarf",Dublin,,"€455,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"17 Brookvale Downs, Rathfarnham",Dublin,,"€295,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"177 GLENDALE ESTATE, LEIXLIP, CO.KILDARE",Kildare,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"18 The Limekiln, Clough, Ballacollqa",Laois,,"€99,118.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+26/08/2011,"180 Oliver Plunkett Avenue, Stella Gardens, Ringsend",Dublin,,"€177,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"2 Na Fuinseoga, Spring Lane, Ballyvolane Rd.",Cork,,"€220,219.00",No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2011,8
+26/08/2011,"2 Stepaside Villas, Stepaside, Kilbgoblin",Dublin,,"€146,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"20 Burlington Road, Parish of St. Peter",Dublin,,"€1,670,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"20 Dunbur Work, Wicklow",Wicklow,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"20 Glencairn Thicket, The Gallops, Leopardstown",Dublin,,"€280,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"20 McSweeneys Villas, Off Blarney Street, Cork City",Cork,,"€117,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"21 Kelly's Bay Beach, Skerries",Dublin,,"€270,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"22 Cairnbrook Avenue, Carrickmines, Dublin 18",Dublin,,"€285,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"22 Oakmount, Tower, Blarney",Cork,,"€192,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"23 Ashfield Drive, Ballinasloe",Galway,,"€70,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"24 Camac Park, Bluebell, Dublin 12",Dublin,,"€117,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"245 Templeogue Road, Templeogue",Dublin,,"€966,250.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"25 Drimnagh Road, Crumlin, Dublin 12",Dublin,,"€120,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"26 Beaufield Manor, Stillorgan",Dublin,,"€202,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"27 davitt court, mountmellicl",Laois,,"€129,956.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+26/08/2011,"275 SOUTH CIRCULAR ROAD, DUBLIN 8",Dublin,,"€415,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"3 Greenfield Drive, Maynooth",Kildare,,"€210,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"3 Sydenham Mews, Stable Lane, Sidmonton Road  Bray",Wicklow,,"€253,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"3 The Green, Castleview, Athlumney  Navan",Meath,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"32 Bridgewater Court, Lower Dominic Street, Galway",Galway,,"€82,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"32 Woodlands Park, Coill Dubh, Naas",Kildare,,"€152,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"34 Castlegate, Portarlington",Laois,,"€180,000.00",Yes,No,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+26/08/2011,"34 Rathvilly Park, Finglas",Dublin,,"€55,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"35  Knightsbrook Crescent, Trim",Meath,,"€90,000.00",Yes,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+26/08/2011,"36 ST. FINBARR'S PARK, GLASHEEN ROAD",Cork,,"€235,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"37 Hillcourt, Donnybrook, Douglas",Cork,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"4  St. Dominicks Avenue, Tallaght, Dublin",Dublin,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"4 Dromheath Grove, Ladyswell, Mulhuddart",Dublin,,"€141,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"43 OFFINGTON PARK, SUTTON, DUBLIN 13",Dublin,,"€750,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"43 Pecks Lane, Castleknock",Dublin,,"€580,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"53 Reuben Avenue, Rialto",Dublin,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"58 Castle Riada Drive, Lucan",Dublin,,"€210,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"6 Castlegate Terrace, Adamstown Castle, Adamstown",Dublin,,"€155,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+26/08/2011,"6 St. Damien's Court, Loughshinny, Skerries",Dublin,,"€525,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"6 SUPPLE PARK, DUNSHAUGHLIN",Meath,,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"63 Park Lawn, Mount Prospect Avenue, Clontarf",Dublin,,"€382,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"65 tegan court, screggan, tullamore",Offaly,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"67 Derravaragh Raod, Terenure, Dublin 6W",Dublin,,"€218,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"69 Ennafort Road, Raheny",Dublin,,"€382,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"7 Castletown, Kinnitty",Offaly,,"€86,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"70 Moynihan Court, Tallaght, Dublin 24",Dublin,,"€67,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"74 Hyde Road, Prospect",Limerick,,"€13,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"76 ELM MOUNT ROAD, BEAUMONT, DUBLIN 9",Dublin,,"€325,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"76 The Old Distillery, Beresford Street",Dublin,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"8 Bromley Court, Midleton",Cork,,"€267,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"8 Coillte Mhuirlinne, Ballybane, Galway",Galway,,"€103,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"8 Maple Lawns, Oldtown Demesne, Naas",Kildare,,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"8 Sruth Mhuillean, Durrus, Bantry",Cork,,"€136,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"8 Straffan Gate, Straffan",Kildare,,"€280,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+26/08/2011,"9 Ailsbury Court, Mitchelstown",Cork,,"€245,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"9 Cosgrave Court, St John's Road, Enniscorthy",Wexford,,"€58,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"9 Earlsfort Rise, Lucan, Co. Dublin",Dublin,,"€184,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"97 Kippure PArk, Finglas, Dublin 11",Dublin,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"99 blackditch road, ballyfermot, dublin",Dublin,,"€119,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Apartment 2, Abbey Trinity House, Tuam",Galway,,"€132,159.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+26/08/2011,"Apartment 3, Botanic Hall, Glasnevin",Dublin,,"€142,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Apasrtment 5C  Helvic, Harvey's Dock  Waterside, Youghal",Cork,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"appartment 4, block a  the steeples, chapelizod",Dublin,,"€157,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Ardeelan Lower, Rossnowlagh",Donegal,,"€218,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Ballycrane, Castlebridge",Wexford,,"€210,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Barnhill, Durrow",Laois,,"€40,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Cahir, Kenmare",Kerry,,"€225,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Cappakeel, New Inn Cross, Emo",Laois,,"€210,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Carraigbrack House, Carraickbrack Road, Howth",Dublin,,"€2,480,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Carrigbawn, Glencullen",Dublin,,"€580,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Cloneen, Arden Road, Tullamore",Offaly,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Drom Caoin, Currahaly, Farran",Cork,,"€258,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Glenamara, Stradbally",Waterford,,"€525,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Idaville, Old Blackrock Road, Cork",Cork,,"€356,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Knockarron, Knocklong",Limerick,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Knocknacurra, Blackrock Road/Crab Lane, Cork City",Cork,,"€500,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Lenaboy, Ardagh",Longford,,"€53,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Liffeyvale, Halverstown, Naa",Kildare,,"€210,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Lower Curragh, Ardmore",Waterford,,"€185,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"No 1 Gleann Ailinne, Carrick Road, Drumshanbo",Leitrim,,"€145,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+26/08/2011,"Pikesland, Barrells Cross, Kinsale",Cork,,"€410,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Premises at Gate Lodge, Blackrock, Cork",Cork,,"€1,295,190.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+26/08/2011,"Screggan, Tullamore",Offaly,,"€125,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Site at Gate Lodge, Blackrock, Cork",Cork,,"€1,095,295.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+26/08/2011,"Streamstown, Mullingar",Westmeath,,"€65,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+26/08/2011,"Tallagh Road, Belmullet",Mayo,,"€210,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+26/08/2011,"Tallagh Road, Belmullet",Mayo,,"€190,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+27/08/2011,"12 Alverno Terrace, Laytown, Co. Meath",Meath,,"€107,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+27/08/2011,"156 Rathmines Town Centre, Rathmines, Dublin 6",Dublin,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+27/08/2011,"Cunareen, Granard",Longford,,"€45,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+27/08/2011,"Manor East, Tralee",Kerry,,"€208,425.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+27/08/2011,"Manor East, Tralee",Kerry,,"€124,075.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+28/08/2011,"29 Glean Cryle, Killarney Road, Abbeyfeale",Limerick,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+28/08/2011,"Castlewood, Cappagh, Dunmore",Galway,,"€118,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+28/08/2011,"No 2 Hollygrove, Renmore, Galway",Galway,,"€145,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"'Ouvane', Lower Friar's Walk, Cork",Cork,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"1 Coates Lane, The Mall, Main Street  Arklow",Wicklow,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"1 Janeville, South Circular Road",Dublin,,"€100,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"10 Ben Whisken View, Bundoran, Donegal",Donegal,,"€122,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"10 Harlech Downs, Clonskeagh",Dublin,,"€365,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"10 Marian Crescent, Ballina",Mayo,,"€89,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"10 Salmon Court, Ballisodare, Sligo",Sligo,,"€148,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"100 Dollymount Avenue, Clontarf",Dublin,,"€415,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"11 Grangeview Close, Clondalkin, Dublin  22.",Dublin,,"€238,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"12  Laburnam Road, Clonskeagh, Dublin 14",Dublin,,"€750,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"12 Gort na Glaise, Sandy Road, Galway",Galway,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"13 ardgillen view, skerriesj",Dublin,,"€423,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"14 William Street, Nenagh",Tipperary,,"€65,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"146 Upper Glenageary Road, Glenageary, County Dublin",Dublin,,"€391,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"15  Valentia Parade, North Circular Road, Dublin 7",Dublin,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"15 Lambay Court, Coast Road, Malahide",Dublin,,"€570,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"16 Lios an Oir, Lismore",Waterford,,"€151,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"176 Sutton Park, Sutton, Dublin 13",Dublin,,"€340,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"2 Brainboro Terrace, South Circular Road",Dublin,,"€370,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"25 Glenbeg Point, Ardamine, Courtown",Wexford,,"€70,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"26 Mayorstone Crescent, Ennis Road, Limerick",Limerick,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"27 The Avenue, Downshire Park, Blessington",Wicklow,,"€242,291.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+29/08/2011,"28 William St, Clonmel, County Tipperary",Tipperary,,"€73,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"3 Congress Gardens, Rush",Dublin,,"€275,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"3 Main Street, Castlebellingham",Louth,,"€36,255.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"3 Richmond, Newtownpark Avenue, Blackrock",Dublin,,"€495,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"30 The Bentley, Kilcoole",Wicklow,,"€218,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"35 Windsor Road, Rathmines",Dublin,,"€642,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"36 Richmond Park, Monkstown",Dublin,,"€207,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"4 All Saints Road, Raheny",Dublin,,"€230,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"4 charlesland court, greystones",Wicklow,,"€10,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"40 Lagavooren Manor, Beamore Road, Drogheda",Louth,,"€195,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"43 Beechfield Road, Walkinstown",Dublin,,"€252,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"43 Heathervue, Greystones",Wicklow,,"€340,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"47 Castlegrove, Clontarf",Dublin,,"€600,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"48 The Courtyard, North Great Georges Street, Dublin 2",Dublin,,"€185,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"48 Woodville, Ballina",Mayo,,"€127,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"57 Butterstream Manor, Kildalkey Road, Trim",Meath,,"€235,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+29/08/2011,"6 the rise, Bishopstown, cork",Cork,,"€299,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"7 Gainsborough Park, Malahide",Dublin,,"€412,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"76 FOXROCK MANOR, FOXROCK",Dublin,,"€945,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"77 Ballinclea Heights, Killiney",Dublin,,"€530,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"8 Cedar Grove, Ballydaheen, Mallow",Cork,,"€62,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"8 St Gerards Place, Rochestown, Co.Cork",Cork,,"€126,350.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"9 Highfield Manor, Mullin's Lane, Crosneen",Laois,,"€149,800.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+29/08/2011,"Adare, St. Vincent's Road, Greystones",Wicklow,,"€760,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Apartment 47 Summerhaven, Summerhill, Carrick on Shannon",Leitrim,,"€75,900.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+29/08/2011,"Apt 50 Block A4, Fortune's Walk, Citywest",Dublin,,"€185,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Ballinacarrow, Co. Sligo",Sligo,,"€180,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+29/08/2011,"Ballyglass, Kilconnell, Ballinasloe",Galway,,"€255,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Belleville, Portlaoise Road, Mountrath",Laois,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Eden Villa, Ballinacurra",Limerick,,"€270,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Jamestown, Carrick-on-Shannon",Leitrim,,"€400,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Kealties, Durrus, Bantry",Cork,,"€480,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Killaboona, The Glen, Emlaghmore",Kerry,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Knockatemple, Kilnamona",Clare,,"€25,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Knockwilliam, Ballydaff, Curraghcleigh",Tipperary,,"€20,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Lands at Gate Lodge, and 'ransom strip'",Dublin,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Legga, Moyne",Longford,,"€45,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Manusflynn, Belclare, Tuam",Galway,,"€77,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Monarrig, Blackwater, County Wexford",Wexford,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"new street, macroom",Cork,,"€132,158.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+29/08/2011,"No  13 College Lawn, Listowel",Kerry,,"€207,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"POULAKERRY, KILSHEELAN, CLONMEL",Tipperary,,"€150,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"The Walk, Roscommon",Roscommon,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+29/08/2011,"Woodlawn, Grove Road, Malahide",Dublin,,"€1,310,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"'Beechview' and 'Il Santo', Blanchardstown",Dublin,,"€252,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"1 Cranmore Villas, Sligo.",Sligo,,"€40,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"1 Kyldar House, Manor Mills, Maynooth",Kildare,,"€159,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"10 Brotherton, Sleatty Road, Graiguecullen",Carlow,,"€190,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"11 Meadowlands, Miltown Malbay",Clare,,"€115,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"12 braemor grove, churchtown",Dublin,,"€280,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"12 Heather Grove, Ballybane, Galway",Galway,,"€155,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"13  Foxborough Park, Lucan",Dublin,,"€234,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"13 Neilstown Avenue, Clondalkin, Dublin 22",Dublin,,"€60,775.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"14 Tolka Valley View, Finglas",Dublin,,"€146,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"15 Wendell Avenue, Portmarnock",Dublin,,"€355,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"16 Marian Crescent, Ballina",Mayo,,"€50,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"17 Beechpark Road, Foxrock, Dublin 18",Dublin,,"€555,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"17 Friar's Court, Mullingar",Westmeath,,"€45,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"18 Tully, Monaghan",Monaghan,,"€104,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"195 Rochestown Avenue, Dun Laoghaire",Dublin,,"€200,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"2 Sycamore Drive, Ard na Sidhe, Clonmel",Tipperary,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"20 Ribh Avenue, Artane, Dublin 5",Dublin,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"23 Casimir Avenue, Harolds Cross",Dublin,,"€590,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"24  Riverside Avenue, Rushbrooke Links, Cobh",Cork,,"€145,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"29 Ard Alainn, New Ross",Wexford,,"€167,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"3 Nutley Square, Donnybrook",Dublin,,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"32 Fairways, Westport, Co. Mayo",Mayo,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"32 The Green, Woodbrook Glen, Bray",Wicklow,,"€191,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"40  Heatherview Park, Aylesbury, Tallaght",Dublin,,"€204,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"48 The Glen, Portarlington",Laois,,"€80,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"5 Upper Ely Place, Dublin 2",Dublin,,"€800,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"54, Brooklawn, Clontarf",Dublin,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"56 The Grage, Portlaoise",Laois,,"€112,617.55",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"57  Rosemount Avenue, Artane",Dublin,,"€240,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"59 brotherton, sleaty rd, carlow",Carlow,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"7 Woodlawn Grove, Lower Churchtown Road, Churchtown",Dublin,,"€240,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"73 High Meadows, Gouldavoher, Dooradoyle",Limerick,,"€150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"74 Newlands, Mullingar",Westmeath,,"€144,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"821 Piercetown, Newbridge",Kildare,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"9 Cherry Tree Park, Riverstown",Sligo,,"€20,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+30/08/2011,"9 Laurel Hill Court, Summerville Avenue, South Circular Road",Limerick,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"9 Pebble Bay, Wicklow",Wicklow,,"€355,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"9 Summerville, Clontarf",Dublin,,"€415,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"9 The Avenue, Priory Court, Watergrasshill",Cork,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"9 West Meadows, Synone, Cashel",Tipperary,,"€160,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"91 Clonroosk Abbey, Portlaoise",Laois,,"€115,000.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+30/08/2011,"91 Lakelands Close, Stillorgan, Co. Dublin",Dublin,,"€415,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"92 CHURCH HILL, SLIGO",Sligo,,"€70,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Askinfarney, Clonroche",Wexford,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"bawnogues, Baltinglas",Wicklow,,"€50,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Claggan Island, Bunnahowen, Ballina",Mayo,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Corporation Lands, Belturbet",Cavan,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Cuilprugehlish, Mullaghroe, Gurteen",Sligo,,"€28,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Guileen, Stradbally",Laois,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Keelogue, Killeshin, Carlow",Laois,,"€215,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Laburnum, Courtown, Mangan Lower",Wexford,,"€93,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Maglin, Ballincollig",Cork,,"€166,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Martinstown, Corkaree",Westmeath,,"€320,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Meelragh, Bornacoola",Leitrim,,"€60,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Milverton, 8 Green Road, Rathgar",Dublin,,"€1,150,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"MUINGANEAR, KNOCKNAGOSHEL",Kerry,,"€38,500.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"No 17, Patrick O'Donoghue Road, Togher",Cork,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Parkbaun, Glenamaddy",Galway,,"€55,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Station Road, Crookstown",Cork,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"St. Georges Terrace, Carrick on Shannon",Leitrim,,"€425,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Sugmore, Garraha, Kinsale",Cork,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"The Battery, Clyhore, Ballyshannon",Donegal,,"€30,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+30/08/2011,"Willowfield, Ballinacarrigy",Westmeath,,"€570,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"1 Hermitage Manor, Lucan, Co Dublin",Dublin,,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"10 hillside, greystones",Wicklow,,"€342,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"110A Pinebrook, Trim",Meath,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"13  Lagan House, Custom House, I.F.S.C.",Dublin,,"€280,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"13 Valley Park Avenue, Finglas South",Dublin,,"€90,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"14 Beech Drive, Johnstown Wood, Navan",Meath,,"€142,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"15 Deansrath, Avenue, Clondalkin",Dublin,,"€107,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"15 Springfield, Wicklow",Wicklow,,"€235,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"16  Ashbrooke Way, Moynehall",Cavan,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"18 Aisling Close, Ballincollig",Cork,,"€202,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"18 Redesdale Road, Mount Merrion, Co. Dublin",Dublin,,"€405,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"2 Chelmsford Avenue, Ranelagh, Dublin",Dublin,,"€435,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"2 Dromin Manor, Dromin",Louth,,"€162,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+31/08/2011,"2 Drumcondra Park, Drumcondra, Dublin 3",Dublin,,"€307,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"2 Lower Aghada, Whitegate, Co Cork",Cork,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"21 Ashwood Glade, Ballinrobe Road, Westport",Mayo,,"€170,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"24 The Steeples, Fair Green, Gowran",Kilkenny,,"€74,890.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+31/08/2011,"25 Castlefield, Atlantic View, Kilkee",Clare,,"€135,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"25 CASTLEPARK DRIVE, CASTLEPARK, ST. JOSEPHS ROAD  MALLOW",Cork,,"€172,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"25 Oakdale Drive, Cabinteely, Dublin 18",Dublin,,"€300,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"25A John Dillon Street, Dublin",Dublin,,"€71,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"262A Green Park Meadows, Mullingar",Westmeath,,"€120,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"28 Drom na Coille, Drumin rd., Nenagh",Tipperary,,"€157,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"29 Grove Park, Rathmines",Dublin,,"€440,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"3 Ashbrook Avenue, Mountbellew, Galway",Galway,,"€182,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"3 Bridgewell, Johnstownbridge, Enfield",Kildare,,"€183,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"3 Seaview, Kilmore",Wexford,,"€189,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"3 The Links, Donabate",Dublin,,"€227,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"31 Clochran, Kilcloghans, Tuam",Galway,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"32 Davitt Road North, Wexford, Wexford",Wexford,,"€60,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"32 The Clayton, The Gasworks, Barrow Street",Dublin,,"€308,370.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+31/08/2011,"34 GREEN LAWN, CURRAGH ROAD, TURNERS CROSS",Cork,T12N6X0,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"34 Hollyville Heights, Waterloo Road, Wexford",Wexford,,"€105,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"36 Tournore Park, Abbeyside, Dungarvan",Waterford,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"38 elgin heights, killarney rd, bray",Wicklow,,"€131,080.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"39 Fortfield Terrace, Rathmines, Dublin 6",Dublin,,"€565,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"4 St Canices Park, Glasnevin",Dublin,,"€55,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"402 Ard Mhuire, Rathangan, County Kildare",Kildare,,"€95,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"42 Cois Inbhir, Donabate",Dublin,,"€341,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"43a Clonturk Park, Drumcondra",Dublin,,"€235,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"46 Borris Little, Borris Road, Portlaoise",Laois,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"47 Mulberry Park, Sligo",Sligo,,"€176,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"47 Tegan Court, Screggan, Tullamore",Offaly,,"€245,000.00",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+31/08/2011,"5  The Tyndles, Tinahely",Wicklow,,"€212,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"52 Forster Court, Forster St., Galway",Galway,,"€297,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"56 Woodbrook Hall, Castleknock, Dublin 15",Dublin,,"€198,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"58 john dillon st, dublin 8",Dublin,,"€220,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"6 COTTAGE VIEW, FARM ROAD, ANNAGASSAN",Louth,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"64 Offington Lawn, Sutton, Dublin 13",Dublin,,"€555,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"7 Heathfield Green, Cappagh Road, Finglas",Dublin,,"€144,330.25",No,Yes,New Dwelling house /Apartment,greater than 125 sq metres,2011,8
+31/08/2011,"72 Marley Court, Drogheda",Louth,,"€50,847.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"8 Churchtown Avenue, Churchtown",Dublin,,"€320,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"8 Knockfield Manor, Knocklyon",Dublin,,"€447,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"8 Pound Street, Maynooth",Kildare,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"8 Wendon Drive, Delgany Wood, Delgany",Wicklow,,"€330,396.47",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+31/08/2011,"83 Belgard Downs, Rochestown Road",Cork,,"€48,250.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"88 Claremont Park, Rahoon",Galway,,"€171,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"9 Croaghtamore Square, Glasheen Road, Cork City",Cork,,"€228,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"94 Kilfenora Raod, Crumlin, Dublin 12",Dublin,,"€107,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"96 St James Road, Greenhills",Dublin,,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"9A Laurel Park, Newcastle, Galway",Galway,,"€100,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Ballyhip, Louisburgh",Mayo,,"€5,254.00",Yes,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Brodleas, Ballymore Eustace",Kildare,,"€490,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Cardi, St.Joseph's Avenue, Newbridge",Kildare,,"€204,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Castletown, Delvin",Westmeath,,"€165,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"COOLBANE, LISCARROLL, MALLOW",Cork,,"€180,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Crossreagh, Mullagh",Cavan,,"€343,865.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,8
+31/08/2011,"Diamond Hill, Roundwood, Co. Wicklow",Wicklow,,"€210,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Drollagh, Castleblayney",Monaghan,,"€85,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Dromroe, Moneygall",Offaly,,"€67,500.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Hickeys Cottage, Stradbally",Waterford,,"€105,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Irishtown, Robinstown, Navan",Meath,,"€70,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Killowen, Kenmare",Kerry,,"€380,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Ladysbridge, County Cork",Cork,,"€60,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Lattin East, Lattin, Co. Tipperary",Tipperary,,"€75,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Lily's Cottage, Cappanacush East, Kenmare",Kerry,,"€110,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Moneyhore, Davidstown, Enniscorthy",Wexford,,"€50,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Mullaun, Drumsna, County Leitrim",Leitrim,,"€140,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Newbridge Street, Birr",Offaly,,"€130,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"No 3 Airport Road, Kilkelly",Mayo,,"€95,270.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"No. 10 Limewoods, Kilgarvan",Kerry,,"€137,550.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Parkannesley Lower, Ballygarrett, Gorey",Wexford,,"€63,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
+31/08/2011,"Richmond, Templemore",Tipperary,,"€175,000.00",No,No,Second-Hand Dwelling house /Apartment,,2011,8
