@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS ppr_sales (
+    id                    SERIAL PRIMARY KEY,
+    date_of_sale          DATE           NOT NULL,
+    address               TEXT,
+    county                VARCHAR(50)    NOT NULL,
+    eircode               VARCHAR(10),
+    price_eur             NUMERIC(12,2)  NOT NULL,
+    is_new                BOOLEAN        NOT NULL DEFAULT FALSE,
+    is_full_market        BOOLEAN        NOT NULL DEFAULT TRUE,
+    property_description  TEXT,
+    size_description      VARCHAR(50),
+    year                  SMALLINT       NOT NULL,
+    quarter               VARCHAR(7),
+    ber_rating            VARCHAR(5),
+    bedrooms              SMALLINT,
+    bathrooms             SMALLINT,
+    floor_area_sqm        NUMERIC(8,2),
+    enriched_at           TIMESTAMPTZ,
+    created_at            TIMESTAMPTZ    DEFAULT NOW()
+);
