@@ -18,3 +18,25 @@ CREATE TABLE IF NOT EXISTS ppr_sales (
     enriched_at           TIMESTAMPTZ,
     created_at            TIMESTAMPTZ    DEFAULT NOW()
 );
+
+CREATE TABLE IF NOT EXISTS rtb_national (
+    id                SERIAL PRIMARY KEY,
+    quarter           VARCHAR(7)   NOT NULL UNIQUE,
+    new_rent_eur      NUMERIC(8,2) NOT NULL,
+    existing_rent_eur NUMERIC(8,2),
+    rent_gap_eur      NUMERIC(8,2),
+    rent_gap_pct      NUMERIC(5,2),
+    created_at        TIMESTAMPTZ  DEFAULT NOW()
+);
+ 
+CREATE TABLE IF NOT EXISTS rtb_county (
+    id                SERIAL PRIMARY KEY,
+    county            VARCHAR(50)  NOT NULL,
+    quarter           VARCHAR(7)   NOT NULL,
+    new_rent_eur      NUMERIC(8,2) NOT NULL,
+    existing_rent_eur NUMERIC(8,2),
+    rent_gap_eur      NUMERIC(8,2),
+    rent_gap_pct      NUMERIC(5,2),
+    created_at        TIMESTAMPTZ  DEFAULT NOW(),
+    UNIQUE (county, quarter)
+);
