@@ -40,3 +40,12 @@ CREATE TABLE IF NOT EXISTS rtb_county (
     created_at        TIMESTAMPTZ  DEFAULT NOW(),
     UNIQUE (county, quarter)
 );
+
+CREATE TABLE IF NOT EXISTS cso_cpi (
+    id           SERIAL PRIMARY KEY,
+    year         SMALLINT      NOT NULL,
+    month        SMALLINT      NOT NULL,
+    index_value  NUMERIC(8,2)  NOT NULL,
+    created_at   TIMESTAMPTZ   DEFAULT NOW(),
+    UNIQUE (year, month)
+);
