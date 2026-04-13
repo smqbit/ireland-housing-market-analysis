@@ -45,6 +45,23 @@ def national_trend():
     return jsonify(clean(query(sql + " ORDER BY quarter", params)))
 
 
+@app.route("/api/counties")
+def counties():
+    sort = request.args.get("sort", "median_price")
+    allowed = {"median_price", "real_median_price", "rental_yield_pct", "rent_gap_pct", "transaction_count"}
+    if sort not in allowed:
+        sort = "median_price"
+    return jsonify(clean(query(f"SELECT * FROM v_county_latest ORDER BY {sort} DESC NULLS LAST")))
+
+
+@app.route("/api/county/<name>")
+def county_latest(name):
+    rows = clean(query("SELECT * FROM v_county_latest WHERE LOWER(county) = LOWER(%s)", [name]))
+    if not rows:
+        return jsonify({"error": "County not found"}), 404
+    return jsonify(rows[0])
+
+
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 8080))
     app.run(debug=os.getenv("FLASK_ENV") == "development", host="0.0.0.0", port=port)
