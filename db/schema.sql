@@ -65,3 +65,27 @@ CREATE TABLE IF NOT EXISTS ppr_aggregated (
     created_at        TIMESTAMPTZ   DEFAULT NOW(),
     UNIQUE (county, quarter)
 );
+
+CREATE TABLE IF NOT EXISTS housing_combined (
+    id                  SERIAL PRIMARY KEY,
+    county              VARCHAR(50)   NOT NULL,
+    year                SMALLINT      NOT NULL,
+    quarter             VARCHAR(7)    NOT NULL,
+    median_price        NUMERIC(12,2),
+    mean_price          NUMERIC(12,2),
+    transaction_count   INTEGER,
+    pct_new             NUMERIC(5,2),
+    real_median_price   NUMERIC(12,2),
+    cpi_index           NUMERIC(8,2),
+    monthly_rent        NUMERIC(8,2),
+    existing_rent       NUMERIC(8,2),
+    rent_gap_eur        NUMERIC(8,2),
+    rent_gap_pct        NUMERIC(5,2),
+    rent_source         VARCHAR(10),
+    rental_yield_pct    NUMERIC(5,2),
+    affordability_ratio NUMERIC(6,2),
+    yoy_growth_pct      NUMERIC(6,2),
+    qoq_growth_pct      NUMERIC(6,2),
+    created_at          TIMESTAMPTZ   DEFAULT NOW(),
+    UNIQUE (county, quarter)
+);

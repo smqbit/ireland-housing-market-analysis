@@ -11,8 +11,8 @@ logger = logging.getLogger(__name__)
 
 def get_conn():
     return psycopg2.connect(host=os.getenv("DB_HOST", "localhost"), port=int(os.getenv("DB_PORT", "5432")),
-        dbname=os.getenv("DB_NAME", ""), user=os.getenv("DB_USER", ""),
-        password=os.getenv("DB_PASSWORD", ""), )
+                            dbname=os.getenv("DB_NAME", ""), user=os.getenv("DB_USER", ""),
+                            password=os.getenv("DB_PASSWORD", ""), )
 
 
 @contextmanager
@@ -139,6 +139,37 @@ def load_ppr_aggregated(conn, df):
         inserted = cur.rowcount
 
     logger.info("PPR aggregated loaded: %d rows", inserted)
+    return inserted
+
+
+def load_housing_combined(conn, df):
+    if df.empty:
+        logger.warning("load_housing_combined: empty dataframe")
+        return 0
+
+    cols = ["county", "year", "quarter", "median_price", "mean_price", "transaction_count", "pct_new", "monthly_rent",
+            "existing_rent", "rent_gap_eur", "rent_gap_pct", "rent_source", "rental_yield_pct"]
+
+    rows = [tuple(None if pd.isna(v) else v for v in row) for row in df[cols].itertuples(index=False)]
+
+    sql = """
+        INSERT INTO housing_combined (county, year, quarter, median_price, mean_price,
+            transaction_count, pct_new, monthly_rent, existing_rent, rent_gap_eur,
+            rent_gap_pct, rent_source, rental_yield_pct)
+        VALUES %s
+        ON CONFLICT (county, quarter) DO UPDATE SET
+            median_price = EXCLUDED.median_price, mean_price = EXCLUDED.mean_price,
+            transaction_count = EXCLUDED.transaction_count, pct_new = EXCLUDED.pct_new,
+            monthly_rent = EXCLUDED.monthly_rent, existing_rent = EXCLUDED.existing_rent,
+            rent_gap_eur = EXCLUDED.rent_gap_eur, rent_gap_pct = EXCLUDED.rent_gap_pct,
+            rent_source = EXCLUDED.rent_source, rental_yield_pct = EXCLUDED.rental_yield_pct
+    """
+
+    with cursor(conn) as cur:
+        psycopg2.extras.execute_values(cur, sql, rows)
+        inserted = cur.rowcount
+
+    logger.info("housing_combined loaded: %d rows", inserted)
     return inserted
 
 
