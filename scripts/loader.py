@@ -10,13 +10,9 @@ logger = logging.getLogger(__name__)
 
 
 def get_conn():
-    return psycopg2.connect(
-        host=os.getenv("DB_HOST", "localhost"),
-        port=int(os.getenv("DB_PORT", "5432")),
-        dbname=os.getenv("DB_NAME", "housing"),
-        user=os.getenv("DB_USER", "postgres"),
-        password=os.getenv("DB_PASSWORD", "123456"),
-    )
+    return psycopg2.connect(host=os.getenv("DB_HOST", "localhost"), port=int(os.getenv("DB_PORT", "5432")),
+        dbname=os.getenv("DB_NAME", ""), user=os.getenv("DB_USER", ""),
+        password=os.getenv("DB_PASSWORD", ""), )
 
 
 @contextmanager
@@ -64,22 +60,11 @@ def load_ppr(conn, df):
             ON ppr_sales (date_of_sale, county, price_eur)
         """)
 
-    rows = [
-        (
-            row.date_of_sale,
-            row.address if pd.notna(row.address) else None,
-            row.county,
-            row.eircode if pd.notna(row.eircode) else None,
-            float(row.price_eur),
-            bool(row.is_new),
-            bool(row.is_full_market),
-            row.property_description if pd.notna(row.property_description) else None,
-            row.size_description if pd.notna(row.size_description) else None,
-            int(row.year),
-            row.quarter if pd.notna(row.quarter) else None,
-        )
-        for row in df.itertuples(index=False)
-    ]
+    rows = [(row.date_of_sale, row.address if pd.notna(row.address) else None, row.county,
+             row.eircode if pd.notna(row.eircode) else None, float(row.price_eur), bool(row.is_new),
+             bool(row.is_full_market), row.property_description if pd.notna(row.property_description) else None,
+             row.size_description if pd.notna(row.size_description) else None, int(row.year),
+             row.quarter if pd.notna(row.quarter) else None,) for row in df.itertuples(index=False)]
 
     sql = """
         INSERT INTO ppr_sales (
@@ -105,26 +90,57 @@ def load_ppr(conn, df):
     return inserted
 
 
-
 def load_cpi(conn, df):
     if df.empty:
         logger.warning("load_cpi: empty dataframe")
         return 0
- 
+
     rows = [(int(row.year), int(row.month), float(row.index_value)) for row in df.itertuples(index=False)]
- 
+
     sql = """
         INSERT INTO cso_cpi (year, month, index_value)
         VALUES %s
         ON CONFLICT (year, month) DO NOTHING
     """
- 
+
     with cursor(conn) as cur:
         psycopg2.extras.execute_values(cur, sql, rows)
         inserted = cur.rowcount
- 
+
     logger.info("CPI loaded: %d rows", inserted)
     return inserted
+
+
+def load_ppr_aggregated(conn, df):
+    if df.empty:
+        logger.warning("load_ppr_aggregated: empty dataframe")
+        return 0
+
+    rows = [
+        (row.county, int(row.year), row.quarter, float(row.median_price), float(row.mean_price), float(row.min_price),
+         float(row.max_price), int(row.transaction_count), float(row.pct_new),) for row in df.itertuples(index=False)]
+
+    sql = """
+        INSERT INTO ppr_aggregated
+            (county, year, quarter, median_price, mean_price, min_price, max_price,
+             transaction_count, pct_new)
+        VALUES %s
+        ON CONFLICT (county, quarter) DO UPDATE SET
+            median_price      = EXCLUDED.median_price,
+            mean_price        = EXCLUDED.mean_price,
+            min_price         = EXCLUDED.min_price,
+            max_price         = EXCLUDED.max_price,
+            transaction_count = EXCLUDED.transaction_count,
+            pct_new           = EXCLUDED.pct_new
+    """
+
+    with cursor(conn) as cur:
+        psycopg2.extras.execute_values(cur, sql, rows)
+        inserted = cur.rowcount
+
+    logger.info("PPR aggregated loaded: %d rows", inserted)
+    return inserted
+
 
 if __name__ == "__main__":
     pass

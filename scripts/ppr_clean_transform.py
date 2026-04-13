@@ -1,25 +1,17 @@
 import logging
+
 import pandas as pd
 
 logger = logging.getLogger(__name__)
 
-COUNTY_NORMALISE = {
-    "Co. Dublin": "Dublin", "Co Dublin": "Dublin",
-    "Co. Cork": "Cork", "Co Cork": "Cork",
-    "Co. Galway": "Galway", "Co Galway": "Galway",
-    "Co. Kerry": "Kerry", "Co. Kildare": "Kildare",
-    "Co. Limerick": "Limerick", "Co. Mayo": "Mayo",
-    "Co. Meath": "Meath", "Co. Wexford": "Wexford",
-    "Co. Wicklow": "Wicklow", "Co. Tipperary": "Tipperary",
-    "Co. Clare": "Clare", "Co. Louth": "Louth",
-    "Co. Waterford": "Waterford", "Co. Sligo": "Sligo",
-    "Co. Longford": "Longford", "Co. Westmeath": "Westmeath",
-    "Co. Offaly": "Offaly", "Co. Laois": "Laois",
-    "Co. Cavan": "Cavan", "Co. Monaghan": "Monaghan",
-    "Co. Roscommon": "Roscommon", "Co. Leitrim": "Leitrim",
-    "Co. Donegal": "Donegal", "Co. Carlow": "Carlow",
-    "Co. Kilkenny": "Kilkenny",
-}
+COUNTY_NORMALISE = {"Co. Dublin": "Dublin", "Co Dublin": "Dublin", "Co. Cork": "Cork", "Co Cork": "Cork",
+                    "Co. Galway": "Galway", "Co Galway": "Galway", "Co. Kerry": "Kerry", "Co. Kildare": "Kildare",
+                    "Co. Limerick": "Limerick", "Co. Mayo": "Mayo", "Co. Meath": "Meath", "Co. Wexford": "Wexford",
+                    "Co. Wicklow": "Wicklow", "Co. Tipperary": "Tipperary", "Co. Clare": "Clare", "Co. Louth": "Louth",
+                    "Co. Waterford": "Waterford", "Co. Sligo": "Sligo", "Co. Longford": "Longford",
+                    "Co. Westmeath": "Westmeath", "Co. Offaly": "Offaly", "Co. Laois": "Laois", "Co. Cavan": "Cavan",
+                    "Co. Monaghan": "Monaghan", "Co. Roscommon": "Roscommon", "Co. Leitrim": "Leitrim",
+                    "Co. Donegal": "Donegal", "Co. Carlow": "Carlow", "Co. Kilkenny": "Kilkenny", }
 
 
 def clean_ppr(df):
@@ -32,11 +24,7 @@ def clean_ppr(df):
 
     # Cast price to float
     df["price_eur"] = (
-        df["price_eur"].astype(str)
-        .str.replace("€", "", regex=False)
-        .str.replace(",", "", regex=False)
-        .str.strip()
-    )
+        df["price_eur"].astype(str).str.replace("€", "", regex=False).str.replace(",", "", regex=False).str.strip())
     df["price_eur"] = pd.to_numeric(df["price_eur"], errors="coerce")
     df = df.dropna(subset=["price_eur"])
     df = df[(df["price_eur"] >= 5_000) & (df["price_eur"] <= 50_000_000)]
@@ -58,9 +46,8 @@ def clean_ppr(df):
     df["eircode"] = df["eircode"].astype(str).str.strip().str.upper()
     df.loc[df["eircode"].isin(["", "NAN", "NONE", "N/A"]), "eircode"] = None
 
-    keep = ["date_of_sale", "address", "county", "eircode", "price_eur",
-            "is_new", "is_full_market", "property_description", "size_description",
-            "year", "quarter"]
+    keep = ["date_of_sale", "address", "county", "eircode", "price_eur", "is_new", "is_full_market",
+            "property_description", "size_description", "year", "quarter"]
     df = df[[c for c in keep if c in df.columns]].copy()
 
     logger.info("PPR clean: %d rows out", len(df))
@@ -84,6 +71,23 @@ def load_ppr_csvs(ppr_dir):
     combined = pd.concat(frames, ignore_index=True)
     logger.info("Total rows loaded: %d from %d files", len(combined), len(files))
     return combined
+
+
+def aggregate_ppr(df):
+    logger.info("PPR aggregate: %d rows in", len(df))
+
+    agg = (df.groupby(["county", "year", "quarter"]).agg(median_price=("price_eur", "median"),
+                                                         mean_price=("price_eur", "mean"),
+                                                         min_price=("price_eur", "min"), max_price=("price_eur", "max"),
+                                                         transaction_count=("price_eur", "count"),
+                                                         pct_new=("is_new", "mean"), ).reset_index())
+
+    agg["median_price"] = agg["median_price"].round(2)
+    agg["mean_price"] = agg["mean_price"].round(2)
+    agg["pct_new"] = (agg["pct_new"] * 100).round(2)
+
+    logger.info("PPR aggregate: %d county/quarter rows out", len(agg))
+    return agg
 
 
 if __name__ == "__main__":

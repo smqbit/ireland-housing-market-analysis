@@ -49,3 +49,19 @@ CREATE TABLE IF NOT EXISTS cso_cpi (
     created_at   TIMESTAMPTZ   DEFAULT NOW(),
     UNIQUE (year, month)
 );
+
+
+CREATE TABLE IF NOT EXISTS ppr_aggregated (
+    id                SERIAL PRIMARY KEY,
+    county            VARCHAR(50)   NOT NULL,
+    year              SMALLINT      NOT NULL,
+    quarter           VARCHAR(7)    NOT NULL,
+    median_price      NUMERIC(12,2),
+    mean_price        NUMERIC(12,2),
+    min_price         NUMERIC(12,2),
+    max_price         NUMERIC(12,2),
+    transaction_count INTEGER       NOT NULL,
+    pct_new           NUMERIC(5,2),
+    created_at        TIMESTAMPTZ   DEFAULT NOW(),
+    UNIQUE (county, quarter)
+);
