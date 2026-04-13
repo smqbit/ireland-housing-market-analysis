@@ -62,6 +62,31 @@ def county_latest(name):
     return jsonify(rows[0])
 
 
+@app.route("/api/county/<name>/history")
+def county_history(name):
+    from_q = request.args.get("from")
+    to_q = request.args.get("to")
+    sql = "SELECT * FROM v_county_history WHERE LOWER(county) = LOWER(%s)"
+    params = [name]
+    if from_q:
+        sql += " AND quarter >= %s"
+        params.append(from_q)
+    if to_q:
+        sql += " AND quarter <= %s"
+        params.append(to_q)
+    rows = clean(query(sql + " ORDER BY quarter", params))
+    if not rows:
+        return jsonify({"error": "County not found"}), 404
+    return jsonify(rows)
+
+
+@app.route("/api/filters")
+def filters():
+    counties = [r["county"] for r in query("SELECT DISTINCT county  FROM housing_combined ORDER BY county")]
+    quarters = [r["quarter"] for r in query("SELECT DISTINCT quarter FROM housing_combined ORDER BY quarter")]
+    return jsonify({"counties": counties, "quarters": quarters})
+
+
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 8080))
     app.run(debug=os.getenv("FLASK_ENV") == "development", host="0.0.0.0", port=port)
