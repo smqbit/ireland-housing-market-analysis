@@ -13,9 +13,9 @@ def get_conn():
     return psycopg2.connect(
         host=os.getenv("DB_HOST", "localhost"),
         port=int(os.getenv("DB_PORT", "5432")),
-        dbname=os.getenv("DB_NAME", ""),
-        user=os.getenv("DB_USER", ""),
-        password=os.getenv("DB_PASSWORD", ""),
+        dbname=os.getenv("DB_NAME", "housing"),
+        user=os.getenv("DB_USER", "postgres"),
+        password=os.getenv("DB_PASSWORD", "123456"),
     )
 
 
@@ -105,51 +105,26 @@ def load_ppr(conn, df):
     return inserted
 
 
-if __name__ == "__main__":
-    import sys
 
-    logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
-
-    try:
-        conn = get_conn()
-        apply_schema(conn)
-        with cursor(conn) as cur:
-            cur.execute("SELECT COUNT(*) FROM ppr_sales")
-            print(f"ppr_sales rows: {cur.fetchone()[0]:,}")
-        conn.close()
-    except Exception as e:
-        print(f"Error: {e}")
-        sys.exit(1)
-
+def load_cpi(conn, df):
     if df.empty:
-        logger.warning("load_rtb_county: empty dataframe")
+        logger.warning("load_cpi: empty dataframe")
         return 0
-
-    rows = [
-        (
-            row.county,
-            row.quarter,
-            float(row.new_rent_eur),
-            float(row.existing_rent_eur) if pd.notna(row.existing_rent_eur) else None,
-            float(row.rent_gap_eur) if pd.notna(row.rent_gap_eur) else None,
-            float(row.rent_gap_pct) if pd.notna(row.rent_gap_pct) else None,
-        )
-        for row in df.itertuples(index=False)
-    ]
-
+ 
+    rows = [(int(row.year), int(row.month), float(row.index_value)) for row in df.itertuples(index=False)]
+ 
     sql = """
-        INSERT INTO rtb_county (county, quarter, new_rent_eur, existing_rent_eur, rent_gap_eur, rent_gap_pct)
+        INSERT INTO cso_cpi (year, month, index_value)
         VALUES %s
-        ON CONFLICT (county, quarter) DO UPDATE SET
-            new_rent_eur      = EXCLUDED.new_rent_eur,
-            existing_rent_eur = EXCLUDED.existing_rent_eur,
-            rent_gap_eur      = EXCLUDED.rent_gap_eur,
-            rent_gap_pct      = EXCLUDED.rent_gap_pct
+        ON CONFLICT (year, month) DO NOTHING
     """
-
+ 
     with cursor(conn) as cur:
         psycopg2.extras.execute_values(cur, sql, rows)
         inserted = cur.rowcount
-
-    logger.info("RTB county loaded: %d rows", inserted)
+ 
+    logger.info("CPI loaded: %d rows", inserted)
     return inserted
+
+if __name__ == "__main__":
+    pass
