@@ -89,3 +89,34 @@ CREATE TABLE IF NOT EXISTS housing_combined (
     created_at          TIMESTAMPTZ   DEFAULT NOW(),
     UNIQUE (county, quarter)
 );
+
+CREATE OR REPLACE VIEW v_national_trend AS
+SELECT
+    quarter,
+    year,
+    ROUND(AVG(median_price), 0)      AS national_median_price,
+    ROUND(AVG(real_median_price), 0) AS national_real_price,
+    SUM(transaction_count)           AS total_transactions,
+    ROUND(AVG(rental_yield_pct), 2)  AS avg_rental_yield
+FROM housing_combined
+WHERE median_price IS NOT NULL
+GROUP BY quarter, year
+ORDER BY quarter;
+
+CREATE OR REPLACE VIEW v_county_latest AS
+SELECT
+    county, quarter, median_price, real_median_price,
+    transaction_count, pct_new, monthly_rent, existing_rent,
+    rental_yield_pct, affordability_ratio, yoy_growth_pct,
+    rent_gap_eur, rent_gap_pct
+FROM housing_combined
+WHERE quarter = (SELECT MAX(quarter) FROM housing_combined WHERE median_price IS NOT NULL)
+ORDER BY median_price DESC NULLS LAST;
+
+CREATE OR REPLACE VIEW v_county_history AS
+SELECT
+    county, quarter, year, median_price, real_median_price,
+    transaction_count, monthly_rent, existing_rent,
+    rental_yield_pct, yoy_growth_pct, qoq_growth_pct, affordability_ratio
+FROM housing_combined
+ORDER BY county, quarter;
