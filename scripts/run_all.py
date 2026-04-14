@@ -11,7 +11,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 STEPS = [
     "scripts/run_ppr.py",
     "scripts/run_rtb.py",
-    "scripts/run_cso.py",
+    "scripts/run_cpi.py",
     "scripts/run_ppr_aggregated.py",
     "scripts/run_housing_combined.py",
 ]

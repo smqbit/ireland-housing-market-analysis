@@ -175,5 +175,61 @@ def load_housing_combined(conn, df):
     return inserted
 
 
+def load_rtb_national(conn, df):
+    if df.empty:
+        logger.warning("load_rtb_national: empty dataframe")
+        return 0
+
+    rows = [(row.quarter, float(row.new_rent_eur),
+             float(row.existing_rent_eur) if pd.notna(row.existing_rent_eur) else None,
+             float(row.rent_gap_eur) if pd.notna(row.rent_gap_eur) else None,
+             float(row.rent_gap_pct) if pd.notna(row.rent_gap_pct) else None,) for row in df.itertuples(index=False)]
+
+    sql = """
+        INSERT INTO rtb_national (quarter, new_rent_eur, existing_rent_eur, rent_gap_eur, rent_gap_pct)
+        VALUES %s
+        ON CONFLICT (quarter) DO UPDATE SET
+            new_rent_eur      = EXCLUDED.new_rent_eur,
+            existing_rent_eur = EXCLUDED.existing_rent_eur,
+            rent_gap_eur      = EXCLUDED.rent_gap_eur,
+            rent_gap_pct      = EXCLUDED.rent_gap_pct
+    """
+
+    with cursor(conn) as cur:
+        psycopg2.extras.execute_values(cur, sql, rows)
+        inserted = cur.rowcount
+
+    logger.info("RTB national loaded: %d rows", inserted)
+    return inserted
+
+
+def load_rtb_county(conn, df):
+    if df.empty:
+        logger.warning("load_rtb_county: empty dataframe")
+        return 0
+
+    rows = [(row.county, row.quarter, float(row.new_rent_eur),
+             float(row.existing_rent_eur) if pd.notna(row.existing_rent_eur) else None,
+             float(row.rent_gap_eur) if pd.notna(row.rent_gap_eur) else None,
+             float(row.rent_gap_pct) if pd.notna(row.rent_gap_pct) else None,) for row in df.itertuples(index=False)]
+
+    sql = """
+        INSERT INTO rtb_county (county, quarter, new_rent_eur, existing_rent_eur, rent_gap_eur, rent_gap_pct)
+        VALUES %s
+        ON CONFLICT (county, quarter) DO UPDATE SET
+            new_rent_eur      = EXCLUDED.new_rent_eur,
+            existing_rent_eur = EXCLUDED.existing_rent_eur,
+            rent_gap_eur      = EXCLUDED.rent_gap_eur,
+            rent_gap_pct      = EXCLUDED.rent_gap_pct
+    """
+
+    with cursor(conn) as cur:
+        psycopg2.extras.execute_values(cur, sql, rows)
+        inserted = cur.rowcount
+
+    logger.info("RTB county loaded: %d rows", inserted)
+    return inserted
+
+
 if __name__ == "__main__":
     pass
