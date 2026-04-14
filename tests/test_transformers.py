@@ -188,3 +188,67 @@ class TestDeriveRealPrice(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
+
+
+class TestCleanPPREnriched(unittest.TestCase):
+    """Tests for PPR rows that have been enriched with Brave API data."""
+
+    def make_enriched_ppr(self):
+        return pd.DataFrame({
+            "date_of_sale":          ["1 01 2024", "15 03 2024"],
+            "address":               ["14 Griffith Ave, Dublin 9", "22 Douglas St, Cork"],
+            "county":                ["Dublin", "Cork"],
+            "eircode":               ["D09 X1Y2", "T12 AB34"],
+            "price_eur":             ["420000.00", "310000.00"],
+            "not_full_market_price": ["No", "No"],
+            "vat_exclusive":         ["No", "No"],
+            "property_description":  [
+                "Second-Hand Dwelling house /Apartment",
+                "Second-Hand Dwelling house /Apartment",
+            ],
+            "size_description": [None, None],
+            "year": ["2024", "2024"],
+            # Brave enrichment columns
+            "ber_rating":    ["B2", "C1"],
+            "bedrooms":      [3, 4],
+            "bathrooms":     [2, 2],
+            "floor_area":    [95.0, 120.0],
+        })
+
+    def test_enriched_columns_survive_clean(self):
+        # clean_ppr should pass through enrichment columns if present
+        df = self.make_enriched_ppr()
+        cleaned = clean_ppr(df)
+        for col in ["ber_rating", "bedrooms", "bathrooms", "floor_area"]:
+            self.assertIn(col, cleaned.columns)
+
+    def test_ber_values_preserved(self):
+        df = self.make_enriched_ppr()
+        cleaned = clean_ppr(df)
+        self.assertIn("B2", cleaned["ber_rating"].values)
+        self.assertIn("C1", cleaned["ber_rating"].values)
+
+    def test_floor_area_preserved(self):
+        df = self.make_enriched_ppr()
+        cleaned = clean_ppr(df)
+        self.assertTrue((cleaned["floor_area"] > 0).all())
+
+    def test_price_per_sqm_derivable(self):
+        # After enrichment, price_per_sqm can be computed
+        df = self.make_enriched_ppr()
+        cleaned = clean_ppr(df)
+        cleaned["price_per_sqm"] = cleaned["price_eur"] / cleaned["floor_area"]
+        self.assertAlmostEqual(cleaned["price_per_sqm"].iloc[0], 420000 / 95.0, places=1)
+
+    def test_partial_enrichment(self):
+        # Some rows enriched, some not — NaN should not drop rows
+        df = self.make_enriched_ppr()
+        df.loc[1, "ber_rating"]  = None
+        df.loc[1, "floor_area"]  = None
+        cleaned = clean_ppr(df)
+        self.assertEqual(len(cleaned), 2)
+        self.assertTrue(pd.isna(cleaned.loc[cleaned["county"] == "Cork", "ber_rating"].iloc[0]))
+
+
+if __name__ == "__main__":
+    unittest.main(verbosity=2)
