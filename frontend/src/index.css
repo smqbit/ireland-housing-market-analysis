@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Mobile-first base styles */
+body {
+  @apply bg-gray-50 text-gray-900;
+}
