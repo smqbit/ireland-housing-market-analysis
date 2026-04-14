@@ -20,7 +20,7 @@ OUTPUT_DIR = PROJECT_ROOT / "datasets" / "ppr"
 RAW_JSON_DIR = PROJECT_ROOT / "raw_responses"
 PROCESSED_FILE = PROJECT_ROOT / "datasets" / "ppr" / "processed_addresses.json"
 
-MAX_API_CALLS = int(os.getenv("BRAVE_API_KEY") or 10)
+MAX_API_CALLS = int(os.getenv("BRAVE_MAX_API_CALLS") or 10)
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(RAW_JSON_DIR, exist_ok=True)
