@@ -1,0 +1,61 @@
+services:
+
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB:       housing
+      POSTGRES_USER:     housing
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/schema.sql:/docker-entrypoint-initdb.d/schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U housing"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  api:
+    build:
+      context: .
+      dockerfile: api/Dockerfile
+    restart: unless-stopped
+    environment:
+      DB_HOST:     db
+      DB_PORT:     5432
+      DB_NAME:     housing
+      DB_USER:     housing
+      DB_PASSWORD: ${DB_PASSWORD}
+      FLASK_ENV:   production
+    depends_on:
+      db:
+        condition: service_healthy
+    expose:
+      - "8080"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        VITE_API_URL: ${VITE_API_URL:-/api}
+    restart: unless-stopped
+    expose:
+      - "80"
+
+  nginx:
+    image: nginx:alpine
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./nginx/certs:/etc/nginx/certs:ro
+    depends_on:
+      - api
+      - frontend
+
+volumes:
+  pgdata:
