@@ -60,20 +60,33 @@ def load_ppr(conn, df):
             ON ppr_sales (date_of_sale, county, price_eur)
         """)
 
-    rows = [(row.date_of_sale, row.address if pd.notna(row.address) else None, row.county,
-             row.eircode if pd.notna(row.eircode) else None, float(row.price_eur), bool(row.is_new),
-             bool(row.is_full_market), row.property_description if pd.notna(row.property_description) else None,
-             row.size_description if pd.notna(row.size_description) else None, int(row.year),
-             row.quarter if pd.notna(row.quarter) else None,) for row in df.itertuples(index=False)]
+    df = df.drop_duplicates(subset=["date_of_sale", "county", "price_eur"], keep="last")
+
+    def _val(row, col):
+        v = getattr(row, col, None)
+        return None if v is None or (isinstance(v, float) and pd.isna(v)) else v
+
+    rows = [(row.date_of_sale, _val(row, "address"), row.county, _val(row, "eircode"), float(row.price_eur),
+             bool(row.is_new), bool(row.is_full_market), _val(row, "property_description"),
+             _val(row, "size_description"), int(row.year), _val(row, "quarter"), _val(row, "ber_rating"),
+             int(float(row.bedrooms)) if _val(row, "bedrooms") is not None else None,
+             int(float(row.bathrooms)) if _val(row, "bathrooms") is not None else None,
+             float(row.floor_area) if _val(row, "floor_area") is not None else None,) for row in
+        df.itertuples(index=False)]
 
     sql = """
         INSERT INTO ppr_sales (
             date_of_sale, address, county, eircode,
             price_eur, is_new, is_full_market,
             property_description, size_description,
-            year, quarter
+            year, quarter,
+            ber_rating, bedrooms, bathrooms, floor_area_sqm
         ) VALUES %s
-        ON CONFLICT (date_of_sale, county, price_eur) DO NOTHING
+        ON CONFLICT (date_of_sale, county, price_eur) DO UPDATE SET
+    ber_rating     = COALESCE(EXCLUDED.ber_rating,     ppr_sales.ber_rating),
+    bedrooms       = COALESCE(EXCLUDED.bedrooms,       ppr_sales.bedrooms),
+    bathrooms      = COALESCE(EXCLUDED.bathrooms,      ppr_sales.bathrooms),
+    floor_area_sqm = COALESCE(EXCLUDED.floor_area_sqm, ppr_sales.floor_area_sqm)
     """
 
     inserted = 0

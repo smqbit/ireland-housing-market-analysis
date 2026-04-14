@@ -47,7 +47,7 @@ def clean_ppr(df):
     df.loc[df["eircode"].isin(["", "NAN", "NONE", "N/A"]), "eircode"] = None
 
     keep = ["date_of_sale", "address", "county", "eircode", "price_eur", "is_new", "is_full_market",
-            "property_description", "size_description", "year", "quarter"]
+            "property_description", "size_description", "year", "quarter", "ber_rating", "bedrooms", "bathrooms", "floor_area"]
     df = df[[c for c in keep if c in df.columns]].copy()
 
     logger.info("PPR clean: %d rows out", len(df))

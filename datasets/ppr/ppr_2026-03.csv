@@ -39,56 +39,56 @@ date_of_sale,address,county,eircode,price_eur,not_full_market_price,vat_exclusiv
 02/03/2026,"1C CATFORD MEWS, TOWER HOUSE, TOWER ST",Cork,T12D2C8,"€355,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,F,3.0,1.0,70.0
 02/03/2026,"2 FERN HILL, BALLYDAVID, ATHENRY",Galway,H65TW60,"€438,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,C1,4.0,2.0,125.0
 02/03/2026,"2 Griffin Drive East, Ard Griffin, New Water Rock Road",Cork,,"€458,149.77",No,Yes,New Dwelling house /Apartment,,2026,3,A2,4.0,3.0,100.0
-02/03/2026,"2 NEW HOUSES, COLLINSTOWN, WESTMEATH",Westmeath,N91EK10,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"2 PARC NA LAIR, FINTRABEG, MILTOWN MALBEY",Clare,V95EK66,"€520,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"2 PARKSIDE, BALLYMORE ROAD, NAAS",Kildare,W91F2RC,"€645,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"2 The Paddocks, Greenpark, Limerick",Limerick,,"€369,162.99",No,Yes,New Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"20 TRITONVILLE AVE, SANDYMOUNT, DUBLIN 4",Dublin,D04EE38,"€905,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"21 STRANDFIELD MANOR, SPAWELL ROAD, WEXFORD TOWN",Wexford,Y35DH7A,"€375,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"21 The Square, Fox Meadow, Loughmacask",Kilkenny,,"€581,850.00",No,Yes,New Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"219 Cois Dara, Tullow Road",Carlow,R93P4AA,"€328,700.00",No,Yes,New Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"23 SUMMERHILL, BUNCRANA, DONEGAL",Donegal,F93KH94,"€64,500.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"231 GALTYMORE RD, CRUMLIN, DUBLIN 12",Dublin,D12TX21,"€410,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"24 MOUNT PROSPECT, DUBLIN RD, MULLINGAR",Westmeath,N91XA39,"€300,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"25 CARRICK VALE, CARRICK RD, EDENDERRY",Offaly,R45DY94,"€315,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"25 Mason Cross Road, Newcastle, Dublin 22",Dublin,,"€511,013.22",No,Yes,New Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"26 BELMAYNE PARK NORTH, BALGRIFFIN, DUBLIN 13",Dublin,D13P8Y0,"€485,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"26 HAZELWOOD PARK, DUBLIN 5, DUBLIN",Dublin,D05W2Y4,"€563,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"27 Rathárd Park, Longview, Ballyvolane",Cork,,"€387,665.00",No,Yes,New Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"27A ARAS NA CLUAINE, WOODFORD WALK, DUBLIN 22",Dublin,,"€275,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"29 Brookfield Drive, Brookfield, Kilbarry",Waterford,,"€333,326.00",No,Yes,New Dwelling house /Apartment,,2026,3,,,,
+02/03/2026,"2 NEW HOUSES, COLLINSTOWN, WESTMEATH",Westmeath,N91EK10,"€205,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,G,2.0,3.0,85.0
+02/03/2026,"2 PARC NA LAIR, FINTRABEG, MILTOWN MALBEY",Clare,V95EK66,"€520,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,3.0,1.0,46.0
+02/03/2026,"2 PARKSIDE, BALLYMORE ROAD, NAAS",Kildare,W91F2RC,"€645,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,C2,4.0,3.0,146.0
+02/03/2026,"2 The Paddocks, Greenpark, Limerick",Limerick,,"€369,162.99",No,Yes,New Dwelling house /Apartment,,2026,3,G,,,
+02/03/2026,"20 TRITONVILLE AVE, SANDYMOUNT, DUBLIN 4",Dublin,D04EE38,"€905,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,F,,31.0,
+02/03/2026,"21 STRANDFIELD MANOR, SPAWELL ROAD, WEXFORD TOWN",Wexford,Y35DH7A,"€375,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,38.0
+02/03/2026,"21 The Square, Fox Meadow, Loughmacask",Kilkenny,,"€581,850.00",No,Yes,New Dwelling house /Apartment,,2026,3,A2,4.0,3.0,2461.0
+02/03/2026,"219 Cois Dara, Tullow Road",Carlow,R93P4AA,"€328,700.00",No,Yes,New Dwelling house /Apartment,,2026,3,A2,2.0,2.0,112.0
+02/03/2026,"23 SUMMERHILL, BUNCRANA, DONEGAL",Donegal,F93KH94,"€64,500.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,F,4.0,3.0,112.63
+02/03/2026,"231 GALTYMORE RD, CRUMLIN, DUBLIN 12",Dublin,D12TX21,"€410,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,G,,,2.0
+02/03/2026,"24 MOUNT PROSPECT, DUBLIN RD, MULLINGAR",Westmeath,N91XA39,"€300,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,B3,2.0,,105.0
+02/03/2026,"25 CARRICK VALE, CARRICK RD, EDENDERRY",Offaly,R45DY94,"€315,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,3.0,3.0,104.0
+02/03/2026,"25 Mason Cross Road, Newcastle, Dublin 22",Dublin,,"€511,013.22",No,Yes,New Dwelling house /Apartment,,2026,3,A2,14.0,12.0,395.0
+02/03/2026,"26 BELMAYNE PARK NORTH, BALGRIFFIN, DUBLIN 13",Dublin,D13P8Y0,"€485,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,C1,4.0,4.0,135.0
+02/03/2026,"26 HAZELWOOD PARK, DUBLIN 5, DUBLIN",Dublin,D05W2Y4,"€563,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,D2,3.0,2.0,113.0
+02/03/2026,"27 Rathárd Park, Longview, Ballyvolane",Cork,,"€387,665.00",No,Yes,New Dwelling house /Apartment,,2026,3,,4.0,,5.0
+02/03/2026,"27A ARAS NA CLUAINE, WOODFORD WALK, DUBLIN 22",Dublin,,"€275,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,C1,2.0,1.0,76.0
+02/03/2026,"29 Brookfield Drive, Brookfield, Kilbarry",Waterford,,"€333,326.00",No,Yes,New Dwelling house /Apartment,,2026,3,,3.0,,110.0
 02/03/2026,"29 CORDUFF GREEN, BLANCHARDSTOWN, CO. DUBLIN",Dublin,D15AX2H,"€310,000.00",Yes,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"29 STEPHEN ST, WATERFORD, WATERFORD",Waterford,X91HY7K,"€118,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"3 CHURCH VIEW, CHAPEL RD, MOYLOUGH",Galway,H53NX24,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"3 SARAH CURRAN AVENUE, RATHFARNHAM, DUBLIN 14",Dublin,D16T977,"€1,250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"3 THE GROVE, HAZELBROOK SQUARE, CHURCHTOWN",Dublin,D14DE88,"€1,330,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"303 KILBARRACK RD, RAHENY, DUBLIN 5",Dublin,D05A4C9,"€520,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"31 BUTLER COURT, MITCHEL ST, THURLES",Tipperary,E41E2R3,"€185,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"31 MARINERS VIEW, PASSAGE WEST, CORK",Cork,T12HYC9,"€365,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"32 DARGLE RD, DRUMCONDRA, DUBLIN 9",Dublin,D09E0W9,"€525,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"32 SANDYHILL LANE, GLENCONNOR VILLAGE, CLONMEL",Tipperary,,"€244,493.39",No,Yes,New Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"33 ARD NA GREINE, WATERFORD",Waterford,X91HH9K,"€181,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"33 THE DALES, MOYLOUGH, BALLINASLOE",Galway,H53Y627,"€248,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"35 KILNASOOLAGH PARK, NEWMARKET ON FERGUS, CLARE",Clare,V95W0D2,"€219,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"35 ST CARDANS PLACE, NAAS, KILDARE",Kildare,W91PW9H,"€340,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"35 THE WATER RILL, WATERSIDE, SWORDS RD",Dublin,K36VX90,"€407,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"36 Glenmore Heights, Lehenaghmore, Cork",Cork,,"€352,225.00",Yes,Yes,New Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"38 REUBEN AVENUE, RIALTO, DUBLIN 8",Dublin,D08HY47,"€723,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"39 LODGE VIEW, DRUMNAVEIL, COOTEHILL",Cavan,H16RW31,"€81,330.00",Yes,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
+02/03/2026,"29 STEPHEN ST, WATERFORD, WATERFORD",Waterford,X91HY7K,"€118,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,F,,,19.5
+02/03/2026,"3 CHURCH VIEW, CHAPEL RD, MOYLOUGH",Galway,H53NX24,"€250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,F,3.0,2.0,109.0
+02/03/2026,"3 SARAH CURRAN AVENUE, RATHFARNHAM, DUBLIN 14",Dublin,D16T977,"€1,250,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,C1,4.0,3.0,190.0
+02/03/2026,"3 THE GROVE, HAZELBROOK SQUARE, CHURCHTOWN",Dublin,D14DE88,"€1,330,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,A2,3.0,,120.0
+02/03/2026,"303 KILBARRACK RD, RAHENY, DUBLIN 5",Dublin,D05A4C9,"€520,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,3.0,2.0,92.0
+02/03/2026,"31 BUTLER COURT, MITCHEL ST, THURLES",Tipperary,E41E2R3,"€185,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,3.0,3.0,133.0
+02/03/2026,"31 MARINERS VIEW, PASSAGE WEST, CORK",Cork,T12HYC9,"€365,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,F,3.0,2.0,93.0
+02/03/2026,"32 DARGLE RD, DRUMCONDRA, DUBLIN 9",Dublin,D09E0W9,"€525,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,G,2.0,1.0,64.0
+02/03/2026,"32 SANDYHILL LANE, GLENCONNOR VILLAGE, CLONMEL",Tipperary,,"€244,493.39",No,Yes,New Dwelling house /Apartment,,2026,3,A2,3.0,3.0,112.0
+02/03/2026,"33 ARD NA GREINE, WATERFORD",Waterford,X91HH9K,"€181,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,4.0,2.0,165.0
+02/03/2026,"33 THE DALES, MOYLOUGH, BALLINASLOE",Galway,H53Y627,"€248,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,F,3.0,1.0,
+02/03/2026,"35 KILNASOOLAGH PARK, NEWMARKET ON FERGUS, CLARE",Clare,V95W0D2,"€219,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,D2,3.0,2.0,105.92
+02/03/2026,"35 ST CARDANS PLACE, NAAS, KILDARE",Kildare,W91PW9H,"€340,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,3.0,3.0,102.0
+02/03/2026,"35 THE WATER RILL, WATERSIDE, SWORDS RD",Dublin,K36VX90,"€407,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,B3,3.0,2.0,
+02/03/2026,"36 Glenmore Heights, Lehenaghmore, Cork",Cork,,"€352,225.00",Yes,Yes,New Dwelling house /Apartment,,2026,3,F,3.0,,101.0
+02/03/2026,"38 REUBEN AVENUE, RIALTO, DUBLIN 8",Dublin,D08HY47,"€723,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,D1,2.0,1.0,87.0
+02/03/2026,"39 LODGE VIEW, DRUMNAVEIL, COOTEHILL",Cavan,H16RW31,"€81,330.00",Yes,No,Second-Hand Dwelling house /Apartment,,2026,3,,4.0,2.0,
 02/03/2026,"39 Seaview Court, Rocksborough, Wexford",Wexford,,"€330,396.48",No,Yes,New Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"39 THE GREEN, COOLROE MEADOWS, BALLINCOLLIG",Cork,P31PY97,"€530,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"39A MOUNTAIN VIEW DR, RATHFARNHAM, DUBLIN 16",Dublin,D14Y060,"€680,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"3A AUGHAMORE, KILCOCK ROAD, CLANE",Kildare,W91YKC8,"€525,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"4 ASHLING GROVE, CASTLEBLAYNEY, MONAGHAN",Monaghan,A75E628,"€290,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"4 PARKMORE TERRACE, TUAM, CO. GALWAY",Galway,H54F382,"€177,500.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"40 WOODVIEW, CASTLEBRIDGE, WEXFORD",Wexford,Y35YD71,"€307,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"43 ST HELENS DR, KILRANE, WEXFORD",Wexford,Y35YF90,"€320,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"44 GARVILLE LANE, RATHGAR, DUBLIN 6",Dublin,D06WF51,"€790,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"45 ATHENRY RD, TUAM, GALWAY",Galway,H54W523,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"45 PARKMORE, TUAM, CO GALWAY",Galway,H54TC98,"€153,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"46 St. Furseys Park, Dublin Road, Dundalk",Louth,,"€348,017.00",No,Yes,New Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"47 MAIN ST, HOWTH, CO DUBLIN",Dublin,D13R9F8,"€713,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
-02/03/2026,"48 KILLCARAGH, LIXNAW, KERRY",Kerry,V92E672,"€300,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
+02/03/2026,"39 THE GREEN, COOLROE MEADOWS, BALLINCOLLIG",Cork,P31PY97,"€530,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,F,4.0,3.0,120.0
+02/03/2026,"39A MOUNTAIN VIEW DR, RATHFARNHAM, DUBLIN 16",Dublin,D14Y060,"€680,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,C2,3.0,,112.0
+02/03/2026,"3A AUGHAMORE, KILCOCK ROAD, CLANE",Kildare,W91YKC8,"€525,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,A2,4.0,4.0,144.0
+02/03/2026,"4 ASHLING GROVE, CASTLEBLAYNEY, MONAGHAN",Monaghan,A75E628,"€290,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,F,,,500.0
+02/03/2026,"4 PARKMORE TERRACE, TUAM, CO. GALWAY",Galway,H54F382,"€177,500.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,G,4.0,3.0,80.0
+02/03/2026,"40 WOODVIEW, CASTLEBRIDGE, WEXFORD",Wexford,Y35YD71,"€307,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,D1,3.0,2.0,162.0
+02/03/2026,"43 ST HELENS DR, KILRANE, WEXFORD",Wexford,Y35YF90,"€320,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,C2,4.0,3.0,127.0
+02/03/2026,"44 GARVILLE LANE, RATHGAR, DUBLIN 6",Dublin,D06WF51,"€790,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,G,3.0,2.0,138.0
+02/03/2026,"45 ATHENRY RD, TUAM, GALWAY",Galway,H54W523,"€200,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,D2,3.0,2.0,62.0
+02/03/2026,"45 PARKMORE, TUAM, CO GALWAY",Galway,H54TC98,"€153,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,G,3.0,1.0,80.0
+02/03/2026,"46 St. Furseys Park, Dublin Road, Dundalk",Louth,,"€348,017.00",No,Yes,New Dwelling house /Apartment,,2026,3,A3,3.0,,169.0
+02/03/2026,"47 MAIN ST, HOWTH, CO DUBLIN",Dublin,D13R9F8,"€713,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,G,2.0,1.0,64.0
+02/03/2026,"48 KILLCARAGH, LIXNAW, KERRY",Kerry,V92E672,"€300,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,B3,3.0,48.0,
 02/03/2026,"48 Ushers Mill Drive, Ushers Mill, Drogheda",Louth,,"€348,017.62",No,Yes,New Dwelling house /Apartment,,2026,3,,,,
 02/03/2026,"5 MOUNTAIN VIEW, KILTIMAGH, MAYO",Mayo,F12FW74,"€247,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
 02/03/2026,"5 THE AVENUE, HAZELBROOK SQUARE, WHITEHALL ROAD",Dublin,D14P5H0,"€1,000,000.00",No,No,Second-Hand Dwelling house /Apartment,,2026,3,,,,
