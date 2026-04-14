@@ -153,25 +153,7 @@ python -m pytest tests/test_integration.py -v
 
 ## Docker Deployment
 
-```bash
-# Copy and fill in env file
-cp .env.example .env
-
-# Generate self-signed SSL cert (replace with your server IP)
-mkdir -p nginx/certs
-openssl req -x509 -nodes -newkey rsa:2048 -days 3650 \
-  -keyout nginx/certs/key.pem \
-  -out    nginx/certs/cert.pem \
-  -subj   "/CN=YOUR_SERVER_IP" \
-  -addext "subjectAltName=IP:YOUR_SERVER_IP"
-
-# Build and start
-docker compose up -d
-```
-
-Four containers: `db` (postgres:16-alpine), `api` (python:3.12-alpine), `frontend` (node:20-alpine → nginx:alpine), `nginx` (reverse proxy + SSL).
-
----
+```docker compose up --build```
 
 ## Data Sources and Licences
 
