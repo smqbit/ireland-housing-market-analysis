@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS ppr_sales (
     is_new                BOOLEAN        NOT NULL DEFAULT FALSE,
     is_full_market        BOOLEAN        NOT NULL DEFAULT TRUE,
     property_description  TEXT,
-    size_description      VARCHAR(50),
+    size_description      TEXT,
     year                  SMALLINT       NOT NULL,
     quarter               VARCHAR(7),
     ber_rating            VARCHAR(5),
