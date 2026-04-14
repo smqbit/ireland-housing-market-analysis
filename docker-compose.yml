@@ -7,7 +7,6 @@ services:
       POSTGRES_DB:       housing
       POSTGRES_USER:     housing
       POSTGRES_PASSWORD: ${DB_PASSWORD}
-      BRAVE_API_KEY: ${BRAVE_API_KEY}
     volumes:
       - pgdata:/var/lib/postgresql/data
       - ./db/schema.sql:/docker-entrypoint-initdb.d/schema.sql:ro
@@ -29,6 +28,8 @@ services:
       DB_USER:     housing
       DB_PASSWORD: ${DB_PASSWORD}
       FLASK_ENV:   production
+      BRAVE_API_KEY: ${BRAVE_API_KEY}
+      BRAVE_MAX_API_CALL: ${BRAVE_MAX_API_CALL}
     depends_on:
       db:
         condition: service_healthy
